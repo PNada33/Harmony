@@ -1,0 +1,94 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 09.07.2026, 17:13
+Description: Rendering screen
+
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at net.minecraft.client.renderer.BufferBuilder.getNextBuffer(BufferBuilder.java:504)
+	at net.minecraft.client.renderer.WorldVertexBufferUploader.draw(WorldVertexBufferUploader.java:30)
+	at xd.harm.ui.clickgui.minidrop.utils.RenderHelper.drawRectHorizontalW(RenderHelper.java:65)
+	at xd.harm.ui.clickgui.minidrop.ClickGuiScreen.render(ClickGuiScreen.java:112)
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:814)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:998)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:585)
+	at net.minecraft.client.main.Main.main(Main.java:199)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:361)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at net.minecraft.client.renderer.BufferBuilder.getNextBuffer(BufferBuilder.java:504)
+	at net.minecraft.client.renderer.WorldVertexBufferUploader.draw(WorldVertexBufferUploader.java:30)
+	at xd.harm.ui.clickgui.minidrop.utils.RenderHelper.drawRectHorizontalW(RenderHelper.java:65)
+	at xd.harm.ui.clickgui.minidrop.ClickGuiScreen.render(ClickGuiScreen.java:112)
+
+-- Screen render details --
+Details:
+	Screen name: xd.harm.ui.clickgui.minidrop.ClickGuiScreen
+	Mouse location: Scaled: (480, 254). Absolute: (960.000000, 508.000000)
+	Screen size: Scaled: (960, 509). Absolute: (1920, 1017). Scale factor of 2.000000
+
+-- Affected level --
+Details:
+	All players: 1 total; [ClientPlayerEntity['Mishkuk'/46, l='ClientLevel', x=302.11, y=72.00, z=356.04]]
+	Chunk stats: Client Chunk Cache: 2025, 953
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (96,63,183), Chunk: (at 0,3,7 in 6,11; contains blocks 96,0,176 to 111,255,191), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 1711061 game time, 18000 day time
+	Server brand: vanilla
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.world.ClientWorld.fillCrashReport(ClientWorld.java:540)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2353)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:601)
+	at net.minecraft.client.main.Main.main(Main.java:199)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 696009736 bytes (663 MB) / 5096079360 bytes (4860 MB) up to 8573157376 bytes (8176 MB)
+	CPUs: 12
+	JVM Flags: 0 total; 
+	Launched Version: mcp
+	Backend library: LWJGL version 3.3.4+7
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/scream-pvp-1-21-7.zip (incompatible)
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

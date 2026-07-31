@@ -1,0 +1,4 @@
+﻿E:\Мои Сурсы\harmony\src\xd\harm\ui\clickgui\components\ModuleComponent.java
+E:\Мои Сурсы\harmony\src\xd\harm\ui\clickgui\components\builder\Component.java
+E:\Мои Сурсы\harmony\src\xd\harm\ui\clickgui\components\settings\BindComponent.java
+E:\Мои Сурсы\harmony\src\xd\harm\ui\clickgui\Panel.java

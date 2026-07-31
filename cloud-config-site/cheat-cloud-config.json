@@ -1,0 +1,7 @@
+{
+  "projectUrl": "http://127.0.0.1:54321",
+  "websocketUrl": "ws://127.0.0.1:54321/ws/cloud",
+  "anonKey": "harmony-local-dev-key",
+  "table": "configs",
+  "timeoutMs": 4000
+}

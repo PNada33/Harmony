@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 02.07.2026, 07:18
+Description: Rendering screen
+
+java.lang.NullPointerException: Cannot invoke "xd.harm.utils.text.font.styled.StyledFont.drawString(com.mojang.blaze3d.matrix.MatrixStack, String, double, double, int)" because "xd.harm.utils.text.font.ClientFonts.watermark[17]" is null
+	at xd.harm.ui.clickgui.MenuPanel.renderHeader(MenuPanel.java:564)
+	at xd.harm.ui.clickgui.MenuPanel.render(MenuPanel.java:472)
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:814)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:996)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at xd.harm.ui.clickgui.MenuPanel.renderHeader(MenuPanel.java:564)
+	at xd.harm.ui.clickgui.MenuPanel.render(MenuPanel.java:472)
+
+-- Screen render details --
+Details:
+	Screen name: xd.harm.ui.clickgui.MenuPanel
+	Mouse location: Scaled: (619, 446). Absolute: (1239.000000, 893.000000)
+	Screen size: Scaled: (960, 509). Absolute: (1920, 1017). Scale factor of 2.000000
+
+-- Affected level --
+Details:
+	All players: 7 total; [ClientPlayerEntity['HarmonyBoost776'/456, l='ClientLevel', x=-12.39, y=54.00, z=11.51], RemoteClientPlayerEntity['[ZNPC] 674383'/69, l='ClientLevel', x=-5.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 280608'/73, l='ClientLevel', x=-2.50, y=54.06, z=-4.50], RemoteClientPlayerEntity['[ZNPC] 388145'/77, l='ClientLevel', x=0.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 422854'/81, l='ClientLevel', x=3.50, y=54.06, z=-4.50], RemoteClientPlayerEntity['[ZNPC] 653828'/85, l='ClientLevel', x=6.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 751631'/89, l='ClientLevel', x=9.50, y=54.06, z=-4.50]]
+	Chunk stats: Client Chunk Cache: 18225, 81
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (-12,54,11), Chunk: (at 4,3,11 in -1,0; contains blocks -16,0,0 to -1,255,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 134774 game time, 18000 day time
+	Server brand: MineLegacy <- MineLegacy
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.world.ClientWorld.fillCrashReport(ClientWorld.java:540)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2351)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:600)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 98424992 bytes (93 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

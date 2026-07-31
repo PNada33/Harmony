@@ -1,0 +1,67 @@
+{
+  "_comment": "Полный каталог карт BedWars на mlegacy.ru. Извлечено из видео-селектора арен.",
+  "_totalArenas": "45 слотов в селекторе (зелёные яйца = свободные, чёрные = заняты/игра идёт)",
+  "_villagers": {
+    "Магазин": "Основной магазин — броня, оружие, блоки за железо/золото",
+    "Командные улучшения": "Командные апгрейды — заточка мечей, закалка брони за алмазы"
+  },
+  "_generators": {
+    "iron": "Генератор железа (на базе)",
+    "gold": "Генератор золота (на базе)",
+    "combined": "Генератор железа+золота (на базе)",
+    "diamond": "Генератор алмазов (на мостах/центре, появляется со временем)",
+    "emerald": "Генератор изумрудов (в центре карты)"
+  },
+
+  "BW-4 Archway": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-5 Crypt": { "mode": "Team (2x8)", "teams": 2, "learned": false },
+  "BW-6 Playground": { "mode": "Team (2x8)", "teams": 2, "learned": false },
+  "BW-7 Catalyst": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-8 Swashbuckle": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-11 Stonekeep": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-13 LionsTemple": {
+    "mode": "Team (4x2)",
+    "teams": 4,
+    "teamColors": ["Красные", "Синие"],
+    "generatorType": "combined",
+    "ironGen": null,
+    "goldGen": null,
+    "combinedGen": null,
+    "diamondGen": [14342, 44, 14400],
+    "diamondGen2": [14453, 44, 14400],
+    "emeraldGen": [14445, 40, 14396],
+    "center": [14380, 38, 14405],
+    "shopPos": [14397, 34, 14475],
+    "upgradesShopPos": [14395, 34, 14473],
+    "bedPositions": {
+      "Красные": [14399, 32, 14464],
+      "Синие": [14398, 32, 14346]
+    },
+    "spawnPositions": {
+      "Красные": [14398, 34, 14475],
+      "Синие": [14398, 34, 14340]
+    },
+    "bridgeDirections": {
+      "Красные": "south (-Z)",
+      "Синие": "north (+Z)"
+    },
+    "learned": true
+  },
+  "BW-14 Ashore": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-19 AirWarfare": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-21 Speedway": { "mode": "Solo (1x8)", "teams": 1, "learned": false },
+  "BW-23 Symphonic": { "mode": "Solo (1x8)", "teams": 1, "learned": false },
+  "BW-24 Farmland": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-25 Balloons": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-27 SkyCloud": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-28 SteamPunk": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-29 Farmland": { "mode": "Team (3x4)", "teams": 3, "learned": false },
+  "BW-30 Stonekeep": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-31 CubeWorld": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-32 Catalyst": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-33 Hollow": { "mode": "Team (2x8)", "teams": 2, "learned": false },
+  "BW-34 SpaceShips": { "mode": "Team (4x6)", "teams": 4, "learned": false },
+  "BW-35 FortDoom": { "mode": "Team (4x4)", "teams": 4, "learned": false },
+  "BW-36 SpeedWay": { "mode": "Solo (1x8)", "teams": 1, "learned": false },
+  "BW-38 BattleGround": { "mode": "Team (4x4)", "teams": 4, "learned": false }
+}

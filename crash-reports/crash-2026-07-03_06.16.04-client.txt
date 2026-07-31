@@ -1,0 +1,52 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 03.07.2026, 06:16
+Description: Unexpected error
+
+java.lang.NoSuchMethodError: 'int net.minecraft.client.Minecraft.getDebugFPS()'
+	at net.optifine.Config.getFpsAverage(Config.java:2084)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.getTaskCount(ThreadTaskExecutor.java:224)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.drainTasks(ThreadTaskExecutor.java:126)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:969)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:585)
+	at net.minecraft.client.main.Main.main(Main.java:199)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 205984032 bytes (196 MB) / 1010827264 bytes (964 MB) up to 8573157376 bytes (8176 MB)
+	CPUs: 12
+	JVM Flags: 0 total; 
+	Launched Version: mcp
+	Backend library: LWJGL version 3.3.4+7
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

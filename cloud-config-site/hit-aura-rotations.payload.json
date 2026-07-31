@@ -1,0 +1,11 @@
+{
+  "modes": {
+    "spooky": "СпукиТайм",
+    "funtime": "ФанТайм",
+    "rilliworld": "РиллиВорлд",
+    "training": "Тренировка",
+    "grim": "Грим",
+    "slotac": "СлотАС",
+    "recording": "Запись"
+  }
+}

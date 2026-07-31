@@ -1,0 +1,114 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 02.07.2026, 20:09
+Description: Initializing game
+
+java.lang.UnsupportedClassVersionError: xd/harm/Harmony has been compiled by a more recent version of the Java Runtime (class file version 69.0), this version of the Java Runtime only recognizes class file versions up to 61.0
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at xd.harm.modules.impl.misc.StreamerMode.getReplaced(StreamerMode.java:39)
+	at net.minecraft.util.text.ITextComponent.func_230533_b_(ITextComponent.java:143)
+	at net.minecraft.util.text.ITextComponent.getComponent(ITextComponent.java:114)
+	at net.minecraft.util.text.ITextComponent.getComponent(ITextComponent.java:124)
+	at net.minecraft.util.text.ITextProperties.getString(ITextProperties.java:100)
+	at net.minecraft.util.text.ITextComponent.getString(ITextComponent.java:57)
+	at net.minecraft.client.Minecraft.lambda$populateSearchTreeManager$4(Minecraft.java:626)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at net.minecraft.client.util.SearchTree.index(SearchTree.java:44)
+	at net.minecraft.client.util.SearchTreeReloadable.func_217872_a(SearchTreeReloadable.java:52)
+	at net.minecraft.client.Minecraft.lambda$populateSearchTreeManager$9(Minecraft.java:643)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at net.minecraft.client.Minecraft.populateSearchTreeManager(Minecraft.java:642)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:435)
+	at net.minecraft.client.main.Main.main(Main.java:156)
+	at Start.main(Start.java:25)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1017)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.defineClass(BuiltinClassLoader.java:862)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.findClassOnClassPathOrNull(BuiltinClassLoader.java:760)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClassOrNull(BuiltinClassLoader.java:681)
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:639)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at xd.harm.modules.impl.misc.StreamerMode.getReplaced(StreamerMode.java:39)
+	at net.minecraft.util.text.ITextComponent.func_230533_b_(ITextComponent.java:143)
+	at net.minecraft.util.text.ITextComponent.getComponent(ITextComponent.java:114)
+	at net.minecraft.util.text.ITextComponent.getComponent(ITextComponent.java:124)
+	at net.minecraft.util.text.ITextProperties.getString(ITextProperties.java:100)
+	at net.minecraft.util.text.ITextComponent.getString(ITextComponent.java:57)
+	at net.minecraft.client.Minecraft.lambda$populateSearchTreeManager$4(Minecraft.java:626)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)
+	at java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)
+	at net.minecraft.client.util.SearchTree.index(SearchTree.java:44)
+	at net.minecraft.client.util.SearchTreeReloadable.func_217872_a(SearchTreeReloadable.java:52)
+	at net.minecraft.client.Minecraft.lambda$populateSearchTreeManager$9(Minecraft.java:643)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at net.minecraft.client.Minecraft.populateSearchTreeManager(Minecraft.java:642)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:435)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:156)
+	at Start.main(Start.java:25)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 427830784 bytes (408 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

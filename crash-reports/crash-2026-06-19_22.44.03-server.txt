@@ -1,0 +1,97 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 19.06.2026, 22:44
+Description: Sending packet
+
+java.lang.NoClassDefFoundError: net/minecraft/network/NetworkManager$QueuedPacket
+	at net.minecraft.network.NetworkManager.sendPacket(NetworkManager.java:216)
+	at net.minecraft.network.play.ServerPlayNetHandler.sendPacket(ServerPlayNetHandler.java:1155)
+	at net.minecraft.network.play.ServerPlayNetHandler.sendPacket(ServerPlayNetHandler.java:1137)
+	at net.minecraft.world.server.ChunkManager$EntityTracker.sendToAllTracking(ChunkManager.java:1458)
+	at net.minecraft.world.TrackedEntity.tick(TrackedEntity.java:210)
+	at net.minecraft.world.server.ChunkManager.tickEntityTracker(ChunkManager.java:1326)
+	at net.minecraft.world.server.ServerChunkProvider.tickChunks(ServerChunkProvider.java:472)
+	at net.minecraft.world.server.ServerChunkProvider.tick(ServerChunkProvider.java:403)
+	at net.minecraft.world.server.ServerWorld.tick(ServerWorld.java:387)
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:1016)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:943)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:106)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:749)
+	at net.minecraft.server.MinecraftServer.lambda$func_240784_a_$0(MinecraftServer.java:234)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.network.NetworkManager$QueuedPacket
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 15 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.network.NetworkManager.sendPacket(NetworkManager.java:216)
+
+-- Packet being sent --
+Details:
+	Packet class: net.minecraft.network.play.server.SEntityHeadLookPacket
+Stacktrace:
+	at net.minecraft.network.play.ServerPlayNetHandler.sendPacket(ServerPlayNetHandler.java:1155)
+	at net.minecraft.network.play.ServerPlayNetHandler.sendPacket(ServerPlayNetHandler.java:1137)
+	at net.minecraft.world.server.ChunkManager$EntityTracker.sendToAllTracking(ChunkManager.java:1458)
+	at net.minecraft.world.TrackedEntity.tick(TrackedEntity.java:210)
+	at net.minecraft.world.server.ChunkManager.tickEntityTracker(ChunkManager.java:1326)
+	at net.minecraft.world.server.ServerChunkProvider.tickChunks(ServerChunkProvider.java:472)
+	at net.minecraft.world.server.ServerChunkProvider.tick(ServerChunkProvider.java:403)
+	at net.minecraft.world.server.ServerWorld.tick(ServerWorld.java:387)
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayerEntity['Mishkek3333'/115, l='ServerLevel[New World]', x=1955.82, y=71.00, z=-1492.54]]
+	Chunk stats: ServerChunkCache: 3706
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (-192,73,0), Chunk: (at 0,4,0 in -12,0; contains blocks -192,0,0 to -177,255,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 617151 game time, 617151 day time
+	Level name: New World
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Level weather: Rain time: 1 (now: false), thunder time: 1 (now: false)
+	Known server brands: vanilla
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.updateTimeLightAndEntities(MinecraftServer.java:1016)
+	at net.minecraft.server.MinecraftServer.tick(MinecraftServer.java:943)
+	at net.minecraft.server.integrated.IntegratedServer.tick(IntegratedServer.java:106)
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:749)
+	at net.minecraft.server.MinecraftServer.lambda$func_240784_a_$0(MinecraftServer.java:234)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.17, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 595179000 bytes (567 MB) / 1497366528 bytes (1428 MB) up to 8573157376 bytes (8176 MB)
+	CPUs: 12
+	JVM Flags: 0 total; 
+	Player Count: 1 / 8; [ServerPlayerEntity['Mishkek3333'/115, l='ServerLevel[New World]', x=1955.82, y=71.00, z=-1492.54]]
+	Data Packs: vanilla
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Very likely; Jar signature invalidated
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 9
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

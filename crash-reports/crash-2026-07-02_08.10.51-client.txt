@@ -1,0 +1,104 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 02.07.2026, 08:10
+Description: mouseClicked event handler
+
+java.lang.NullPointerException: Cannot invoke "xd.harm.utils.text.font.styled.StyledFont.getWidth(String)" because "xd.harm.utils.text.font.ClientFonts.icons_nur[17]" is null
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.measureIconWidth(MainScreen.java:520)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:389)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:372)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:362)
+	at xd.harm.ui.mainmenu.MainScreen.init(MainScreen.java:98)
+	at net.minecraft.client.Minecraft.displayGuiScreen(Minecraft.java:863)
+	at net.minecraft.client.gui.screen.DisconnectedScreen.lambda$init$0(DisconnectedScreen.java:34)
+	at net.minecraft.client.gui.widget.button.Button.onPress(Button.java:28)
+	at net.minecraft.client.gui.widget.button.AbstractButton.onClick(AbstractButton.java:18)
+	at net.minecraft.client.gui.widget.Widget.mouseClicked(Widget.java:156)
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:25)
+	at net.minecraft.client.MouseHelper.lambda$mouseButtonCallback$0(MouseHelper.java:103)
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:564)
+	at net.minecraft.client.MouseHelper.mouseButtonCallback(MouseHelper.java:102)
+	at net.minecraft.client.MouseHelper.lambda$registerCallbacks$4(MouseHelper.java:197)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:111)
+	at net.minecraft.client.MouseHelper.lambda$registerCallbacks$5(MouseHelper.java:196)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:165)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1022)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.measureIconWidth(MainScreen.java:520)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:389)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:372)
+	at xd.harm.ui.mainmenu.MainScreen$MenuButton.<init>(MainScreen.java:362)
+	at xd.harm.ui.mainmenu.MainScreen.init(MainScreen.java:98)
+	at net.minecraft.client.Minecraft.displayGuiScreen(Minecraft.java:863)
+	at net.minecraft.client.gui.screen.DisconnectedScreen.lambda$init$0(DisconnectedScreen.java:34)
+	at net.minecraft.client.gui.widget.button.Button.onPress(Button.java:28)
+	at net.minecraft.client.gui.widget.button.AbstractButton.onClick(AbstractButton.java:18)
+	at net.minecraft.client.gui.widget.Widget.mouseClicked(Widget.java:156)
+	at net.minecraft.client.gui.INestedGuiEventHandler.mouseClicked(INestedGuiEventHandler.java:25)
+	at net.minecraft.client.MouseHelper.lambda$mouseButtonCallback$0(MouseHelper.java:103)
+
+-- Affected screen --
+Details:
+	Screen name: net.minecraft.client.gui.screen.DisconnectedScreen
+Stacktrace:
+	at net.minecraft.client.gui.screen.Screen.wrapScreenError(Screen.java:564)
+	at net.minecraft.client.MouseHelper.mouseButtonCallback(MouseHelper.java:102)
+	at net.minecraft.client.MouseHelper.lambda$registerCallbacks$4(MouseHelper.java:197)
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.execute(ThreadTaskExecutor.java:111)
+	at net.minecraft.client.MouseHelper.lambda$registerCallbacks$5(MouseHelper.java:196)
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:36)
+	at org.lwjgl.system.JNI.invokeV(Native Method)
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3174)
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:165)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1022)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 234997760 bytes (224 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

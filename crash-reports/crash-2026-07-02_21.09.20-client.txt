@@ -1,0 +1,91 @@
+---- Minecraft Crash Report ----
+// Uh... Did I do that?
+
+Time: 02.07.2026, 21:09
+Description: Rendering item
+
+java.lang.NullPointerException: Cannot invoke "net.minecraft.client.renderer.model.IBakedModel.getOverrides()" because "ibakedmodel" is null
+	at net.minecraft.client.renderer.ItemRenderer.getItemModelWithOverrides(ItemRenderer.java:303)
+	at net.minecraft.client.renderer.ItemRenderer.renderItemIntoGUI(ItemRenderer.java:381)
+	at net.minecraft.client.renderer.ItemRenderer.renderItemAndEffectIntoGUI(ItemRenderer.java:374)
+	at net.minecraft.client.gui.IngameGui.renderHotbarItem(IngameGui.java:1380)
+	at net.minecraft.client.gui.IngameGui.renderHotbar(IngameGui.java:522)
+	at net.minecraft.client.gui.IngameGui.renderIngameGui(IngameGui.java:213)
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:758)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:996)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:25)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraft.client.renderer.ItemRenderer.getItemModelWithOverrides(ItemRenderer.java:303)
+
+-- Item being rendered --
+Details:
+	Item Type: compass
+	Registry Name: null
+	Item Damage: 0
+	Item NBT: {Unbreakable:1b,HideFlags:63,display:{Lore:['{"italic":false,"color":"gray","text":"Выберите режим для игры"}'],"VV|Protocol1_12_2To1_13|Name":"§a§lВыбор режима §7(ПКМ)","VV|Protocol1_13_2To1_14|Lore":["§7Выберите режим для игры"],Name:'{"extra":[{"bold":true,"italic":false,"color":"green","text":"Выбор режима "},{"italic":false,"color":"gray","text":"(ПКМ)"}],"text":""}'},"ItemJoin Name":"lobby_menu"}
+	Item Foil: false
+Stacktrace:
+	at net.minecraft.client.renderer.ItemRenderer.renderItemIntoGUI(ItemRenderer.java:381)
+	at net.minecraft.client.renderer.ItemRenderer.renderItemAndEffectIntoGUI(ItemRenderer.java:374)
+	at net.minecraft.client.gui.IngameGui.renderHotbarItem(IngameGui.java:1380)
+	at net.minecraft.client.gui.IngameGui.renderHotbar(IngameGui.java:522)
+	at net.minecraft.client.gui.IngameGui.renderIngameGui(IngameGui.java:213)
+
+-- Affected level --
+Details:
+	All players: 7 total; [ClientPlayerEntity['HarmonyBoost728'/7140, l='ClientLevel', x=-12.39, y=54.00, z=11.51], RemoteClientPlayerEntity['[ZNPC] 674383'/69, l='ClientLevel', x=-5.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 280608'/73, l='ClientLevel', x=-2.50, y=54.06, z=-4.50], RemoteClientPlayerEntity['[ZNPC] 388145'/77, l='ClientLevel', x=0.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 422854'/81, l='ClientLevel', x=3.50, y=54.06, z=-4.50], RemoteClientPlayerEntity['[ZNPC] 653828'/85, l='ClientLevel', x=6.50, y=54.06, z=-3.50], RemoteClientPlayerEntity['[ZNPC] 751631'/89, l='ClientLevel', x=9.50, y=54.06, z=-4.50]]
+	Chunk stats: Client Chunk Cache: 18225, 81
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (-12,54,11), Chunk: (at 4,3,11 in -1,0; contains blocks -16,0,0 to -1,255,15), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 171761 game time, 1175138960 day time
+	Server brand: MineLegacy <- MineLegacy
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.world.ClientWorld.fillCrashReport(ClientWorld.java:540)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2351)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:600)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:25)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 25.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 154168856 bytes (147 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

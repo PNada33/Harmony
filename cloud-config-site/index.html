@@ -1,0 +1,81 @@
+﻿<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Harmony Cloud Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700&family=Sora:wght@500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css?v=20260326-03" />
+  </head>
+  <body>
+    <div class="ambient" aria-hidden="true">
+      <span class="orb orb-a"></span>
+      <span class="orb orb-b"></span>
+      <span class="orb orb-c"></span>
+      <span class="grain"></span>
+    </div>
+
+    <main class="app-shell">
+      <section class="core-card">
+        <header class="top-row">
+          <div class="brand">
+            <span class="brand-dot"></span>
+            <div class="brand-copy">
+              <p class="brand-title">Harmony</p>
+              <p class="brand-subtitle">Cloud Config</p>
+            </div>
+          </div>
+
+          <div class="top-actions">
+            <div class="chip" id="modeChip">Mode: local</div>
+            <button id="refreshBtn" class="btn btn-ghost" type="button">refresh</button>
+          </div>
+        </header>
+
+        <div class="layout-grid">
+          <aside class="panel panel-list">
+            <div class="panel-head">
+              <h1>Configs</h1>
+              <p>cloud storage</p>
+            </div>
+
+            <label class="field">
+              <span>search</span>
+              <input id="searchInput" type="search" placeholder="find config" />
+            </label>
+
+            <div id="configList" class="config-list" aria-live="polite"></div>
+          </aside>
+
+          <section class="panel panel-edit">
+            <div class="panel-head panel-head-inline">
+              <h2 id="editorTitle">Новый конфиг</h2>
+              <span class="micro-pill">HCFG</span>
+            </div>
+
+            <label class="field">
+              <span>name</span>
+              <input id="nameInput" type="text" placeholder="example legit" />
+            </label>
+
+            <div class="actions">
+              <button id="newBtn" class="btn" type="button">new</button>
+              <button id="saveBtn" class="btn btn-primary" type="button">save</button>
+              <button id="deleteBtn" class="btn btn-danger" type="button">delete</button>
+              <button id="exportBtn" class="btn" type="button">copy code</button>
+              <button id="importBtn" class="btn" type="button">import</button>
+            </div>
+
+            <p id="statusLine" class="status" aria-live="polite"></p>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <script src="./config.js?v=20260326-03"></script>
+    <script src="./cloud-client.js?v=20260326-03"></script>
+    <script src="./app.js?v=20260326-03"></script>
+  </body>
+</html>

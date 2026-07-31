@@ -1,0 +1,118 @@
+---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 04.07.2026, 01:56
+Description: Ticking entity
+
+java.lang.NoSuchMethodError: 'com.google.gson.JsonElement com.google.gson.JsonParser.parseString(java.lang.String)'
+	at xd.harm.modules.impl.misc.BotAttack.syncModuleConfig(BotAttack.java:421)
+	at xd.harm.modules.impl.misc.BotAttack.syncControlFile(BotAttack.java:410)
+	at xd.harm.modules.impl.misc.BotAttack.onUpdate(BotAttack.java:156)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraft.client.entity.player.ClientPlayerEntity.tick(ClientPlayerEntity.java:186)
+	at net.minecraft.client.world.ClientWorld.updateEntity(ClientWorld.java:233)
+	at net.minecraft.world.World.guardEntityTick(World.java:556)
+	at net.minecraft.client.world.ClientWorld.tickEntities(ClientWorld.java:198)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1605)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:975)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:585)
+	at net.minecraft.client.main.Main.main(Main.java:199)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at xd.harm.modules.impl.misc.BotAttack.syncModuleConfig(BotAttack.java:421)
+	at xd.harm.modules.impl.misc.BotAttack.syncControlFile(BotAttack.java:410)
+	at xd.harm.modules.impl.misc.BotAttack.onUpdate(BotAttack.java:156)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraft.client.entity.player.ClientPlayerEntity.tick(ClientPlayerEntity.java:186)
+	at net.minecraft.client.world.ClientWorld.updateEntity(ClientWorld.java:233)
+
+-- Entity being ticked --
+Details:
+	Entity Type: minecraft:player (net.minecraft.client.entity.player.ClientPlayerEntity)
+	Entity ID: 43
+	Entity Name: Mishkuk
+	Entity's Exact location: 570.43, 74.00, 335.73
+	Entity's Block location: World: (570,74,335), Chunk: (at 10,4,15 in 35,20; contains blocks 560,0,320 to 575,255,335), Region: (1,0; contains chunks 32,0 to 63,31, blocks 512,0,0 to 1023,255,511)
+	Entity's Momentum: 0.00, -0.08, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: Cannot invoke "net.minecraft.entity.Entity.toString()" because the return value of "net.minecraft.entity.Entity.getRidingEntity()" is null
+Stacktrace:
+	at net.minecraft.world.World.guardEntityTick(World.java:556)
+	at net.minecraft.client.world.ClientWorld.tickEntities(ClientWorld.java:198)
+
+-- Affected level --
+Details:
+	All players: 1 total; [ClientPlayerEntity['Mishkuk'/43, l='ClientLevel', x=570.43, y=74.00, z=335.73]]
+	Chunk stats: Client Chunk Cache: 2025, 1581
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (96,63,183), Chunk: (at 0,3,7 in 6,11; contains blocks 96,0,176 to 111,255,191), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 1404455 game time, 18000 day time
+	Server brand: vanilla
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.world.ClientWorld.fillCrashReport(ClientWorld.java:540)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2353)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:601)
+	at net.minecraft.client.main.Main.main(Main.java:199)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 433908496 bytes (413 MB) / 1468006400 bytes (1400 MB) up to 8573157376 bytes (8176 MB)
+	CPUs: 12
+	JVM Flags: 0 total; 
+	Launched Version: mcp
+	Backend library: LWJGL version 3.3.4+7
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

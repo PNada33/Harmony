@@ -1,0 +1,56 @@
+# === COMPILED OUTPUT ===
+out/
+*.class
+
+# === RUNTIME DATA ===
+logs/
+botdata_*/
+harmony/
+figura/
+figura_avatars/
+temp_avatars/
+saves/
+screenshots/
+resourcepacks/
+server-resource-packs/
+
+# === DEPENDENCIES (JARs) ===
+lib/
+libraries/
+
+# === BOT LOGS ===
+bot_*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# === MINECRAFT RUNTIME ===
+servers.dat
+servers.dat_old
+usercache.json
+options.txt
+optionsof.txt
+optionsshaders.txt
+*.zip
+*.jar
+*.dll
+*.so
+*.dylib
+
+# === IDE ===
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+*.iml
+*.iws
+*.ipr
+
+# === OS ===
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# === OTHER ===
+nul
+test_write.txt

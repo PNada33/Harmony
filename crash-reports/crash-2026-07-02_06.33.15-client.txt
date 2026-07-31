@@ -1,0 +1,78 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 02.07.2026, 06:33
+Description: Rendering screen
+
+java.lang.NullPointerException: Cannot invoke "xd.harm.utils.text.font.styled.StyledFont.drawCenteredString(com.mojang.blaze3d.matrix.MatrixStack, String, double, double, int)" because "xd.harm.utils.text.font.ClientFonts.interMedium[32]" is null
+	at xd.harm.ui.mainmenu.ExitScreen.render(ExitScreen.java:86)
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:814)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:996)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at xd.harm.ui.mainmenu.ExitScreen.render(ExitScreen.java:86)
+
+-- Screen render details --
+Details:
+	Screen name: xd.harm.ui.mainmenu.ExitScreen
+	Mouse location: Scaled: (199, 85). Absolute: (399.000000, 170.000000)
+	Screen size: Scaled: (200, 150). Absolute: (400, 300). Scale factor of 2.000000
+
+-- Affected level --
+Details:
+	All players: 5 total; [ClientPlayerEntity['HarmonyBoost180'/1801, l='ClientLevel', x=0.20, y=179.00, z=25.53], RemoteClientPlayerEntity['NIKA_Love23456'/1785, l='ClientLevel', x=8.80, y=180.00, z=16.80], RemoteClientPlayerEntity['bIPKA'/1715, l='ClientLevel', x=2.20, y=180.00, z=15.04], RemoteClientPlayerEntity['Mishkuk'/1800, l='ClientLevel', x=13.65, y=180.50, z=33.59], RemoteClientPlayerEntity['gl0ry2Yoz3f___'/1802, l='ClientLevel', x=-0.08, y=179.00, z=25.45]]
+	Chunk stats: Client Chunk Cache: 18225, 289
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (-498,4,310), Chunk: (at 14,0,6 in -32,19; contains blocks -512,0,304 to -497,255,319), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 177546 game time, 18000 day time
+	Server brand: MineLegacy <- MineLegacy
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.world.ClientWorld.fillCrashReport(ClientWorld.java:540)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2351)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:600)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 223110440 bytes (212 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

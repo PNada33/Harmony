@@ -1,0 +1,3247 @@
+Static shutdown hook at 1783048211441
+  botProcesses size: 0
+shutdownAll called at 1783048211442
+  botProcesses size: 0
+Static shutdown hook at 1783048242147
+  botProcesses size: 0
+shutdownAll called at 1783048242148
+  botProcesses size: 0
+Static shutdown hook at 1783048507362
+  botProcesses size: 0
+shutdownAll called at 1783048507363
+  botProcesses size: 0
+Static shutdown hook at 1783048531370
+  botProcesses size: 0
+shutdownAll called at 1783048531371
+  botProcesses size: 0
+Static shutdown hook at 1783048545931
+  botProcesses size: 0
+shutdownAll called at 1783048545932
+  botProcesses size: 0
+Static shutdown hook at 1783048564503
+  botProcesses size: 0
+shutdownAll called at 1783048564504
+  botProcesses size: 0
+  ADDED PID 12432 for Legend287_Pro
+Static shutdown hook at 1783048969474
+  botProcesses size: 0
+shutdownAll called at 1783048969475
+  botProcesses size: 0
+  REMOVED PID 12432 in finally
+shutdownAll called at 1783048989553
+  botProcesses size: 0
+Static shutdown hook at 1783048989554
+  botProcesses size: 0
+shutdownAll called at 1783048989555
+  botProcesses size: 0
+  ADDED PID 12260 for Legend287_Pro
+  REMOVED PID 12260 in finally
+shutdownAll called at 1783049597916
+  botProcesses size: 0
+Static shutdown hook at 1783049597917
+  botProcesses size: 0
+shutdownAll called at 1783049597918
+  botProcesses size: 0
+  ADDED PID 9100 for Ultra543_BW
+  REMOVED PID 9100 in finally
+  ADDED PID 12492 for Ultra543_BW
+  REMOVED PID 12492 in finally
+Static shutdown hook at 1783055115773
+  botProcesses size: 0
+shutdownAll called at 1783055115774
+  botProcesses size: 0
+  ADDED PID 8928 for Ultra543_BW
+  REMOVED PID 8928 in finally
+  ADDED PID 14424 for Ultra543_BW
+  REMOVED PID 14424 in finally
+Static shutdown hook at 1783057986403
+  botProcesses size: 0
+shutdownAll called at 1783057986405
+  botProcesses size: 0
+  ADDED PID 15564 for Ultra543_BW
+shutdownAll called at 1783058043873
+  botProcesses size: 1
+  killed PID 15564
+Static shutdown hook at 1783058043874
+  botProcesses size: 0
+shutdownAll called at 1783058043875
+  botProcesses size: 0
+  REMOVED PID 15564 in finally
+  ADDED PID 13504 for Ultra543_BW
+  ADDED PID 14868 for Mini223_123
+  ADDED PID 12840 for Cool327_OP
+  ADDED PID 6524 for Ultra708_123
+shutdownAll called at 1783058313429
+  botProcesses size: 0
+Static shutdown hook at 1783058313437
+  botProcesses size: 0
+shutdownAll called at 1783058313438
+  botProcesses size: 0
+  REMOVED PID 13504 in finally
+shutdownAll called at 1783058320748
+  botProcesses size: 0
+Static shutdown hook at 1783058320752
+  botProcesses size: 0
+shutdownAll called at 1783058320753
+  botProcesses size: 0
+  REMOVED PID 12840 in finally
+shutdownAll called at 1783058321368
+  botProcesses size: 0
+Static shutdown hook at 1783058321375
+  botProcesses size: 0
+shutdownAll called at 1783058321376
+  botProcesses size: 0
+  REMOVED PID 14868 in finally
+shutdownAll called at 1783058323308
+  botProcesses size: 0
+Static shutdown hook at 1783058323311
+  botProcesses size: 0
+shutdownAll called at 1783058323312
+  botProcesses size: 0
+  REMOVED PID 6524 in finally
+  ADDED PID 260 for Ultra543_BW
+shutdownAll called at 1783058346319
+  botProcesses size: 0
+Static shutdown hook at 1783058346321
+  botProcesses size: 0
+shutdownAll called at 1783058346322
+  botProcesses size: 0
+  REMOVED PID 260 in finally
+  ADDED PID 13892 for Ultra543_BW
+  ADDED PID 7700 for Ultra543_BW
+shutdownAll called at 1783059186587
+  botProcesses size: 2
+  killed PID 13892
+  killed PID 7700
+Static shutdown hook at 1783059186588
+  botProcesses size: 0
+shutdownAll called at 1783059186589
+  botProcesses size: 0
+  REMOVED PID 13892 in finally
+  REMOVED PID 7700 in finally
+  ADDED PID 8676 for Ultra543_BW
+  ADDED PID 2448 for Ultra543_BW
+  ADDED PID 5044 for Ultra543_BW
+shutdownAll called at 1783059260603
+  botProcesses size: 1
+  killed PID 5044
+Static shutdown hook at 1783059260606
+shutdownAll called at 1783059260606
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 2448 in finally
+shutdownAll called at 1783059261301
+  botProcesses size: 0
+Static shutdown hook at 1783059261304
+  botProcesses size: 0
+shutdownAll called at 1783059261305
+  botProcesses size: 0
+  REMOVED PID 8676 in finally
+Static shutdown hook at 1783059402762
+  botProcesses size: 0
+shutdownAll called at 1783059402762
+  botProcesses size: 0
+  ADDED PID 4988 for Ultra543_BW
+shutdownAll called at 1783059723430
+  botProcesses size: 0
+Static shutdown hook at 1783059723432
+  botProcesses size: 0
+shutdownAll called at 1783059723432
+  botProcesses size: 0
+  REMOVED PID 4988 in finally
+shutdownAll called at 1783059728952
+  botProcesses size: 0
+Static shutdown hook at 1783059728953
+  botProcesses size: 0
+shutdownAll called at 1783059728954
+  botProcesses size: 0
+  ADDED PID 13696 for Ultra543_BW
+  ADDED PID 13540 for Ultra543_BW
+shutdownAll called at 1783061549852
+  botProcesses size: 2
+  killed PID 13696
+  killed PID 13540
+Static shutdown hook at 1783061549854
+  botProcesses size: 0
+shutdownAll called at 1783061549854
+  botProcesses size: 0
+  REMOVED PID 13696 in finally
+  REMOVED PID 13540 in finally
+shutdownAll called at 1783061853689
+  botProcesses size: 0
+Static shutdown hook at 1783061853690
+  botProcesses size: 0
+shutdownAll called at 1783061853691
+  botProcesses size: 0
+  ADDED PID 14924 for Ultra543_BW
+  ADDED PID 3652 for Ultra543_BW
+shutdownAll called at 1783063607174
+  botProcesses size: 2
+  killed PID 14924
+  killed PID 3652
+Static shutdown hook at 1783063607175
+  botProcesses size: 0
+shutdownAll called at 1783063607176
+  botProcesses size: 0
+  REMOVED PID 14924 in finally
+  REMOVED PID 3652 in finally
+shutdownAll called at 1783063698254
+  botProcesses size: 0
+Static shutdown hook at 1783063698255
+  botProcesses size: 0
+shutdownAll called at 1783063698258
+  botProcesses size: 0
+shutdownAll called at 1783063780845
+  botProcesses size: 0
+Static shutdown hook at 1783063780847
+  botProcesses size: 0
+shutdownAll called at 1783063780848
+  botProcesses size: 0
+  ADDED PID 13248 for Ultra543_BW
+  ADDED PID 5716 for Legend770PVP
+  ADDED PID 7356 for xD566_MC
+shutdownAll called at 1783072007019
+  botProcesses size: 0
+Static shutdown hook at 1783072007025
+  botProcesses size: 0
+shutdownAll called at 1783072007025
+  botProcesses size: 0
+  REMOVED PID 5716 in finally
+shutdownAll called at 1783072007996
+  botProcesses size: 0
+Static shutdown hook at 1783072007999
+  botProcesses size: 0
+shutdownAll called at 1783072008000
+  botProcesses size: 0
+  REMOVED PID 13248 in finally
+shutdownAll called at 1783072010500
+  botProcesses size: 0
+Static shutdown hook at 1783072010504
+  botProcesses size: 0
+shutdownAll called at 1783072010504
+  botProcesses size: 0
+  REMOVED PID 7356 in finally
+  ADDED PID 14936 for Ultra543_BW
+  ADDED PID 5320 for Ultra543_BW
+shutdownAll called at 1783072222995
+  botProcesses size: 2
+  killed PID 14936
+  killed PID 5320
+Static shutdown hook at 1783072222997
+  botProcesses size: 0
+shutdownAll called at 1783072222998
+  botProcesses size: 0
+  REMOVED PID 14936 in finally
+  REMOVED PID 5320 in finally
+  ADDED PID 3944 for Ultra543_BW
+  ADDED PID 16060 for Ultra543_BW
+shutdownAll called at 1783073084633
+  botProcesses size: 2
+  killed PID 3944
+  killed PID 16060
+Static shutdown hook at 1783073084635
+  botProcesses size: 0
+shutdownAll called at 1783073084635
+  botProcesses size: 0
+  REMOVED PID 3944 in finally
+  REMOVED PID 16060 in finally
+  ADDED PID 8072 for QuantumClw1
+  ADDED PID 2268 for QuantumClw1
+shutdownAll called at 1783073325564
+  botProcesses size: 0
+Static shutdown hook at 1783073325571
+  botProcesses size: 0
+shutdownAll called at 1783073325572
+  botProcesses size: 0
+  REMOVED PID 2268 in finally
+shutdownAll called at 1783073460335
+  botProcesses size: 0
+Static shutdown hook at 1783073460338
+  botProcesses size: 0
+shutdownAll called at 1783073460339
+  botProcesses size: 0
+  REMOVED PID 8072 in finally
+shutdownAll called at 1783073474189
+  botProcesses size: 0
+Static shutdown hook at 1783073474189
+shutdownAll called at 1783073474189
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 3592 for Ultra922MC
+shutdownAll called at 1783073886478
+  botProcesses size: 0
+Static shutdown hook at 1783073886480
+  botProcesses size: 0
+shutdownAll called at 1783073886480
+  botProcesses size: 0
+  REMOVED PID 3592 in finally
+shutdownAll called at 1783073901285
+  botProcesses size: 0
+Static shutdown hook at 1783073901288
+  botProcesses size: 0
+shutdownAll called at 1783073901288
+  botProcesses size: 0
+  ADDED PID 16000 for Noob659MC
+  ADDED PID 12656 for Cool895PVP
+  ADDED PID 15916 for Noob494_123
+  ADDED PID 1096 for Super920_YT
+  ADDED PID 4636 for Noob312_OP
+shutdownAll called at 1783074299024
+  botProcesses size: 1
+  killed PID 12656
+Static shutdown hook at 1783074299025
+  botProcesses size: 0
+shutdownAll called at 1783074299027
+  botProcesses size: 0
+  REMOVED PID 16000 in finally
+  ADDED PID 15096 for Cool203_BW
+shutdownAll called at 1783074301944
+  botProcesses size: 1
+  killed PID 1096
+Static shutdown hook at 1783074301951
+  botProcesses size: 0
+shutdownAll called at 1783074301961
+  botProcesses size: 0
+Static shutdown hook at 1783074324452
+shutdownAll called at 1783074324452
+  botProcesses size: 1
+  killed PID 15096
+  botProcesses size: 0
+  ADDED PID 13732 for QuantumCl1
+shutdownAll called at 1783074415179
+  botProcesses size: 0
+Static shutdown hook at 1783074415181
+  botProcesses size: 0
+shutdownAll called at 1783074415183
+  botProcesses size: 0
+  REMOVED PID 13732 in finally
+  ADDED PID 15612 for Pro346_Pro
+  ADDED PID 5164 for Cool971_OP
+  ADDED PID 14920 for Pro466_Pro
+  ADDED PID 9308 for Player459_Pro
+shutdownAll called at 1783074940469
+  botProcesses size: 1
+  killed PID 5164
+Static shutdown hook at 1783074940475
+  botProcesses size: 0
+shutdownAll called at 1783074940484
+  botProcesses size: 0
+  REMOVED PID 15612 in finally
+shutdownAll called at 1783074944732
+  botProcesses size: 0
+Static shutdown hook at 1783074944733
+  botProcesses size: 0
+shutdownAll called at 1783074944736
+  botProcesses size: 0
+  REMOVED PID 9308 in finally
+shutdownAll called at 1783074945942
+  botProcesses size: 0
+Static shutdown hook at 1783074945947
+  botProcesses size: 0
+shutdownAll called at 1783074945949
+  botProcesses size: 0
+  ADDED PID 8616 for Ultra969MC
+  ADDED PID 8960 for Cool985_OP
+shutdownAll called at 1783074967994
+  botProcesses size: 0
+Static shutdown hook at 1783074967995
+  botProcesses size: 0
+shutdownAll called at 1783074967998
+  botProcesses size: 0
+  REMOVED PID 8960 in finally
+shutdownAll called at 1783076549538
+  botProcesses size: 1
+  killed PID 8616
+Static shutdown hook at 1783076549539
+  botProcesses size: 0
+shutdownAll called at 1783076549539
+  botProcesses size: 0
+  REMOVED PID 8616 in finally
+  ADDED PID 15224 for Ultra827HD
+  ADDED PID 12524 for Ultra409_OP
+  ADDED PID 15928 for Super960_OP
+shutdownAll called at 1783076751664
+  botProcesses size: 1
+  killed PID 12524
+Static shutdown hook at 1783076751696
+  botProcesses size: 0
+shutdownAll called at 1783076751699
+  botProcesses size: 0
+  REMOVED PID 15224 in finally
+shutdownAll called at 1783076755260
+  botProcesses size: 0
+Static shutdown hook at 1783076755289
+  botProcesses size: 0
+shutdownAll called at 1783076755291
+  botProcesses size: 0
+  ADDED PID 772 for Bot146_123
+shutdownAll called at 1783076851092
+  botProcesses size: 0
+Static shutdown hook at 1783076851094
+  botProcesses size: 0
+shutdownAll called at 1783076851096
+  botProcesses size: 0
+  REMOVED PID 772 in finally
+Static shutdown hook at 1783076990975
+shutdownAll called at 1783076990975
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 2412 for Noob808PVP
+shutdownAll called at 1783077045912
+  botProcesses size: 0
+Static shutdown hook at 1783077045915
+  botProcesses size: 0
+shutdownAll called at 1783077045917
+  botProcesses size: 0
+  REMOVED PID 2412 in finally
+  ADDED PID 14588 for xD103HD
+shutdownAll called at 1783077067293
+  botProcesses size: 0
+Static shutdown hook at 1783077067295
+  botProcesses size: 0
+shutdownAll called at 1783077067298
+  botProcesses size: 0
+  REMOVED PID 14588 in finally
+Static shutdown hook at 1783078003085
+  botProcesses size: 0
+shutdownAll called at 1783078003086
+  botProcesses size: 0
+  ADDED PID 9192 for QuantumCl1
+shutdownAll called at 1783078059275
+  botProcesses size: 0
+Static shutdown hook at 1783078059283
+  botProcesses size: 0
+shutdownAll called at 1783078059285
+  botProcesses size: 0
+  REMOVED PID 9192 in finally
+shutdownAll called at 1783078229609
+  botProcesses size: 0
+Static shutdown hook at 1783078229610
+  botProcesses size: 0
+shutdownAll called at 1783078229611
+  botProcesses size: 0
+  ADDED PID 1180 for QuantumCl1
+shutdownAll called at 1783078431056
+  botProcesses size: 0
+Static shutdown hook at 1783078431059
+  botProcesses size: 0
+shutdownAll called at 1783078431061
+  botProcesses size: 0
+  REMOVED PID 1180 in finally
+  ADDED PID 3508 for Bot896_OP
+shutdownAll called at 1783078449015
+  botProcesses size: 0
+Static shutdown hook at 1783078449018
+  botProcesses size: 0
+shutdownAll called at 1783078449020
+  botProcesses size: 0
+  REMOVED PID 3508 in finally
+  ADDED PID 9332 for xD297PVP
+shutdownAll called at 1783078469239
+  botProcesses size: 0
+Static shutdown hook at 1783078469242
+  botProcesses size: 0
+shutdownAll called at 1783078469244
+  botProcesses size: 0
+  REMOVED PID 9332 in finally
+shutdownAll called at 1783078594019
+  botProcesses size: 0
+Static shutdown hook at 1783078594020
+  botProcesses size: 0
+shutdownAll called at 1783078594022
+  botProcesses size: 0
+  ADDED PID 1644 for QuantumCl1
+shutdownAll called at 1783078765381
+  botProcesses size: 0
+Static shutdown hook at 1783078765385
+  botProcesses size: 0
+shutdownAll called at 1783078765387
+  botProcesses size: 0
+  REMOVED PID 1644 in finally
+  ADDED PID 14080 for QuantumCl1
+shutdownAll called at 1783078785461
+  botProcesses size: 0
+Static shutdown hook at 1783078785464
+  botProcesses size: 0
+shutdownAll called at 1783078785465
+  botProcesses size: 0
+  REMOVED PID 14080 in finally
+  ADDED PID 16300 for Ultra543_BW
+shutdownAll called at 1783078803251
+  botProcesses size: 0
+Static shutdown hook at 1783078803254
+  botProcesses size: 0
+shutdownAll called at 1783078803254
+  botProcesses size: 0
+  REMOVED PID 16300 in finally
+  ADDED PID 8720 for Mini742_BW
+shutdownAll called at 1783078822661
+  botProcesses size: 0
+Static shutdown hook at 1783078822664
+  botProcesses size: 0
+shutdownAll called at 1783078822666
+  botProcesses size: 0
+  REMOVED PID 8720 in finally
+Static shutdown hook at 1783078894906
+  botProcesses size: 0
+shutdownAll called at 1783078894907
+  botProcesses size: 0
+  ADDED PID 12072 for Bot233_BW
+shutdownAll called at 1783113158702
+  botProcesses size: 1
+  killed PID 12072
+Static shutdown hook at 1783113158704
+shutdownAll called at 1783113158704
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 12072 in finally
+  ADDED PID 3012 for Ultra785_YT
+Static shutdown hook at 1783113757660
+  botProcesses size: 0
+shutdownAll called at 1783113757661
+  botProcesses size: 0
+  REMOVED PID 3012 in finally
+Static shutdown hook at 1783114044880
+  botProcesses size: 0
+shutdownAll called at 1783114044880
+  botProcesses size: 0
+  ADDED PID 11644 for Noob423_123
+Static shutdown hook at 1783114093753
+  botProcesses size: 0
+shutdownAll called at 1783114093755
+  botProcesses size: 0
+  REMOVED PID 11644 in finally
+  ADDED PID 8220 for Noob479HD
+Static shutdown hook at 1783117060995
+  botProcesses size: 1
+shutdownAll called at 1783117060996
+  killed PID 8220
+  botProcesses size: 0
+  REMOVED PID 8220 in finally
+  ADDED PID 11852 for Super284_Pro
+shutdownAll called at 1783117129204
+  botProcesses size: 0
+Static shutdown hook at 1783117129206
+  botProcesses size: 0
+shutdownAll called at 1783117129207
+  botProcesses size: 0
+  REMOVED PID 11852 in finally
+  ADDED PID 5156 for Noob901_Pro
+shutdownAll called at 1783117146103
+  botProcesses size: 0
+Static shutdown hook at 1783117146105
+  botProcesses size: 0
+shutdownAll called at 1783117146106
+  botProcesses size: 0
+  REMOVED PID 5156 in finally
+  ADDED PID 1964 for Noob602HD
+Static shutdown hook at 1783118042214
+shutdownAll called at 1783118042215
+  botProcesses size: 1
+  killed PID 1964
+  botProcesses size: 0
+  REMOVED PID 1964 in finally
+shutdownAll called at 1783119340316
+Static shutdown hook at 1783119340315
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783119393239
+  botProcesses size: 0
+shutdownAll called at 1783119393240
+  botProcesses size: 0
+  ADDED PID 11996 for Mini290PVP
+Static shutdown hook at 1783119994553
+  botProcesses size: 1
+  killed PID 11996
+shutdownAll called at 1783119994554
+  botProcesses size: 0
+  REMOVED PID 11996 in finally
+  ADDED PID 10064 for Legend687_XD
+Static shutdown hook at 1783120492852
+  botProcesses size: 1
+shutdownAll called at 1783120492853
+  killed PID 10064
+  botProcesses size: 0
+  REMOVED PID 10064 in finally
+  ADDED PID 5036 for Ultra164HD
+  ADDED PID 7584 for Bot578_123
+  ADDED PID 1140 for Player319_XD
+  ADDED PID 4600 for Legend438_123
+  ADDED PID 12184 for Bot864MC
+shutdownAll called at 1783120587695
+  botProcesses size: 0
+Static shutdown hook at 1783120587698
+  botProcesses size: 0
+shutdownAll called at 1783120587699
+  botProcesses size: 0
+  REMOVED PID 1140 in finally
+shutdownAll called at 1783120589605
+  botProcesses size: 0
+Static shutdown hook at 1783120589610
+  botProcesses size: 0
+shutdownAll called at 1783120589611
+  botProcesses size: 0
+  REMOVED PID 4600 in finally
+shutdownAll called at 1783120591909
+  botProcesses size: 0
+Static shutdown hook at 1783120591911
+  botProcesses size: 0
+shutdownAll called at 1783120591912
+  botProcesses size: 0
+  REMOVED PID 12184 in finally
+Static shutdown hook at 1783120779563
+  botProcesses size: 2
+  killed PID 5036
+shutdownAll called at 1783120779564
+  killed PID 7584
+  botProcesses size: 0
+  REMOVED PID 5036 in finally
+  REMOVED PID 7584 in finally
+  ADDED PID 9036 for Super123_BW
+Static shutdown hook at 1783121014361
+  botProcesses size: 1
+shutdownAll called at 1783121014362
+  killed PID 9036
+  botProcesses size: 0
+  REMOVED PID 9036 in finally
+  ADDED PID 9460 for Legend525HD
+shutdownAll called at 1783121330299
+  botProcesses size: 0
+Static shutdown hook at 1783121330301
+  botProcesses size: 0
+shutdownAll called at 1783121330301
+  botProcesses size: 0
+  REMOVED PID 9460 in finally
+  ADDED PID 6476 for xD799_BW
+  REMOVED PID 6476 in finally
+Static shutdown hook at 1783121410868
+  botProcesses size: 0
+shutdownAll called at 1783121410868
+  botProcesses size: 0
+  ADDED PID 12212 for Bot706_OP
+Static shutdown hook at 1783122068047
+  botProcesses size: 1
+shutdownAll called at 1783122068047
+  killed PID 12212
+  botProcesses size: 0
+  REMOVED PID 12212 in finally
+  ADDED PID 4260 for Ultra628MC
+shutdownAll called at 1783122218543
+  botProcesses size: 0
+Static shutdown hook at 1783122218546
+  botProcesses size: 0
+shutdownAll called at 1783122218547
+  botProcesses size: 0
+  REMOVED PID 4260 in finally
+shutdownAll called at 1783122243009
+  botProcesses size: 0
+Static shutdown hook at 1783122243009
+  botProcesses size: 0
+shutdownAll called at 1783122243010
+  botProcesses size: 0
+  ADDED PID 1956 for Ultra176HD
+shutdownAll called at 1783122467387
+  botProcesses size: 0
+Static shutdown hook at 1783122467389
+  botProcesses size: 0
+shutdownAll called at 1783122467391
+  botProcesses size: 0
+  REMOVED PID 1956 in finally
+  ADDED PID 11268 for Noob689_XD
+shutdownAll called at 1783122498575
+  botProcesses size: 0
+Static shutdown hook at 1783122498577
+  botProcesses size: 0
+shutdownAll called at 1783122498578
+  botProcesses size: 0
+  REMOVED PID 11268 in finally
+  ADDED PID 8540 for Ultra927_123
+shutdownAll called at 1783124835643
+Static shutdown hook at 1783124835643
+  botProcesses size: 1
+  killed PID 8540
+  botProcesses size: 0
+  REMOVED PID 8540 in finally
+Static shutdown hook at 1783125020283
+shutdownAll called at 1783125020283
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 1628 for Super885_BW
+Static shutdown hook at 1783125405024
+  botProcesses size: 1
+shutdownAll called at 1783125405025
+  killed PID 1628
+  botProcesses size: 0
+  REMOVED PID 1628 in finally
+Static shutdown hook at 1783125517909
+  botProcesses size: 0
+shutdownAll called at 1783125517911
+  botProcesses size: 0
+  ADDED PID 11796 for Super153_XD
+Static shutdown hook at 1783126002162
+shutdownAll called at 1783126002163
+  botProcesses size: 1
+  killed PID 11796
+  botProcesses size: 0
+  REMOVED PID 11796 in finally
+  ADDED PID 8268 for Legend895_123
+  ADDED PID 4020 for Mini928_BW
+  ADDED PID 2520 for Cool264_XD
+shutdownAll called at 1783126191884
+  botProcesses size: 0
+Static shutdown hook at 1783126191887
+  botProcesses size: 0
+shutdownAll called at 1783126191887
+  botProcesses size: 0
+  REMOVED PID 2520 in finally
+Static shutdown hook at 1783126933021
+  botProcesses size: 2
+shutdownAll called at 1783126933022
+  killed PID 8268
+  killed PID 4020
+  botProcesses size: 0
+  REMOVED PID 8268 in finally
+  REMOVED PID 4020 in finally
+  ADDED PID 12428 for Noob211_123
+Static shutdown hook at 1783129692810
+shutdownAll called at 1783129692810
+  botProcesses size: 1
+  killed PID 12428
+  botProcesses size: 0
+  REMOVED PID 12428 in finally
+Static shutdown hook at 1783130091365
+  botProcesses size: 0
+shutdownAll called at 1783130091365
+  botProcesses size: 0
+  ADDED PID 12476 for Mini841_MC
+Static shutdown hook at 1783130769561
+  botProcesses size: 1
+shutdownAll called at 1783130769561
+  killed PID 12476
+  botProcesses size: 0
+  REMOVED PID 12476 in finally
+Static shutdown hook at 1783130818798
+  botProcesses size: 0
+shutdownAll called at 1783130818799
+  botProcesses size: 0
+  ADDED PID 5032 for Player621_OP
+shutdownAll called at 1783131000630
+  botProcesses size: 0
+Static shutdown hook at 1783131000634
+  botProcesses size: 0
+shutdownAll called at 1783131000634
+  botProcesses size: 0
+  REMOVED PID 5032 in finally
+shutdownAll called at 1783131124706
+  botProcesses size: 0
+Static shutdown hook at 1783131124707
+  botProcesses size: 0
+shutdownAll called at 1783131124708
+  botProcesses size: 0
+  ADDED PID 9460 for Noob753_XD
+shutdownAll called at 1783138566999
+  botProcesses size: 0
+Static shutdown hook at 1783138567000
+  botProcesses size: 0
+shutdownAll called at 1783138567001
+  botProcesses size: 0
+  REMOVED PID 9460 in finally
+Static shutdown hook at 1783139319453
+  botProcesses size: 0
+shutdownAll called at 1783139319454
+  botProcesses size: 0
+Static shutdown hook at 1783139333324
+  botProcesses size: 0
+shutdownAll called at 1783139333325
+  botProcesses size: 0
+  ADDED PID 11520 for Bot475_XD
+shutdownAll called at 1783139496176
+  botProcesses size: 0
+Static shutdown hook at 1783139496178
+  botProcesses size: 0
+shutdownAll called at 1783139496179
+  botProcesses size: 0
+  REMOVED PID 11520 in finally
+Static shutdown hook at 1783140604515
+  botProcesses size: 0
+shutdownAll called at 1783140604516
+  botProcesses size: 0
+  ADDED PID 2084 for Bot362PVP
+Static shutdown hook at 1783140811155
+shutdownAll called at 1783140811155
+  botProcesses size: 1
+  killed PID 2084
+  botProcesses size: 0
+  REMOVED PID 2084 in finally
+shutdownAll called at 1783141434067
+  botProcesses size: 0
+Static shutdown hook at 1783141434068
+  botProcesses size: 0
+shutdownAll called at 1783141434069
+  botProcesses size: 0
+  ADDED PID 7520 for Pro998_MC
+shutdownAll called at 1783144250262
+  botProcesses size: 1
+  killed PID 7520
+Static shutdown hook at 1783144250270
+  botProcesses size: 0
+shutdownAll called at 1783144250270
+  botProcesses size: 0
+  REMOVED PID 7520 in finally
+  ADDED PID 7604 for xD959_Pro
+Static shutdown hook at 1783147259204
+  botProcesses size: 1
+shutdownAll called at 1783147259204
+  killed PID 7604
+  botProcesses size: 0
+  REMOVED PID 7604 in finally
+  ADDED PID 3884 for Pro838HD
+Static shutdown hook at 1783147945302
+shutdownAll called at 1783147945303
+  botProcesses size: 1
+  killed PID 3884
+  botProcesses size: 0
+  REMOVED PID 3884 in finally
+  ADDED PID 10972 for xD970PVP
+shutdownAll called at 1783148054322
+  botProcesses size: 1
+  killed PID 10972
+Static shutdown hook at 1783148054325
+  botProcesses size: 0
+shutdownAll called at 1783148054325
+  botProcesses size: 0
+  REMOVED PID 10972 in finally
+  ADDED PID 12916 for Super592_123
+Static shutdown hook at 1783148464877
+  botProcesses size: 1
+shutdownAll called at 1783148464878
+  killed PID 12916
+  botProcesses size: 0
+  REMOVED PID 12916 in finally
+  ADDED PID 3540 for Player144PVP
+Static shutdown hook at 1783149623345
+  botProcesses size: 1
+shutdownAll called at 1783149623346
+  killed PID 3540
+  botProcesses size: 0
+  REMOVED PID 3540 in finally
+  ADDED PID 5216 for Noob776_XD
+Static shutdown hook at 1783151849257
+  botProcesses size: 1
+  killed PID 5216
+shutdownAll called at 1783151849259
+  botProcesses size: 0
+  REMOVED PID 5216 in finally
+  ADDED PID 13872 for Bot928_123
+Static shutdown hook at 1783153390764
+shutdownAll called at 1783153390764
+  botProcesses size: 1
+  killed PID 13872
+  botProcesses size: 0
+  REMOVED PID 13872 in finally
+  ADDED PID 13136 for Noob606_OP
+shutdownAll called at 1783153530195
+  botProcesses size: 0
+Static shutdown hook at 1783153530198
+  botProcesses size: 0
+shutdownAll called at 1783153530199
+  botProcesses size: 0
+  REMOVED PID 13136 in finally
+Static shutdown hook at 1783153706056
+  botProcesses size: 0
+shutdownAll called at 1783153706056
+  botProcesses size: 0
+  ADDED PID 908 for Player369_YT
+shutdownAll called at 1783153931979
+  botProcesses size: 0
+Static shutdown hook at 1783153931982
+shutdownAll called at 1783153931982
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 908 in finally
+Static shutdown hook at 1783154379650
+  botProcesses size: 0
+shutdownAll called at 1783154379651
+  botProcesses size: 0
+  ADDED PID 7616 for xD881_123
+shutdownAll called at 1783154519086
+  botProcesses size: 1
+  killed PID 7616
+Static shutdown hook at 1783154519089
+  botProcesses size: 0
+shutdownAll called at 1783154519090
+  botProcesses size: 0
+  REMOVED PID 7616 in finally
+  ADDED PID 748 for Ultra586_123
+Static shutdown hook at 1783155561548
+  botProcesses size: 1
+shutdownAll called at 1783155561548
+  killed PID 748
+  botProcesses size: 0
+  REMOVED PID 748 in finally
+  ADDED PID 13820 for Noob571PVP
+shutdownAll called at 1783155977170
+  botProcesses size: 0
+Static shutdown hook at 1783155977172
+  botProcesses size: 0
+shutdownAll called at 1783155977172
+  botProcesses size: 0
+  REMOVED PID 13820 in finally
+  ADDED PID 3332 for xD569_123
+Static shutdown hook at 1783156179090
+  botProcesses size: 1
+shutdownAll called at 1783156179091
+  killed PID 3332
+  botProcesses size: 0
+  REMOVED PID 3332 in finally
+  ADDED PID 12852 for Ultra405MC
+shutdownAll called at 1783157076527
+  botProcesses size: 1
+  killed PID 12852
+Static shutdown hook at 1783157076529
+  botProcesses size: 0
+shutdownAll called at 1783157076530
+  botProcesses size: 0
+  REMOVED PID 12852 in finally
+  ADDED PID 14156 for Super375MC
+Static shutdown hook at 1783157910041
+  botProcesses size: 1
+shutdownAll called at 1783157910041
+  killed PID 14156
+  botProcesses size: 0
+  REMOVED PID 14156 in finally
+Static shutdown hook at 1783158150841
+shutdownAll called at 1783158150841
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783158925924
+  botProcesses size: 0
+shutdownAll called at 1783158925924
+  botProcesses size: 0
+shutdownAll called at 1783159293811
+  botProcesses size: 0
+Static shutdown hook at 1783159293812
+  botProcesses size: 0
+shutdownAll called at 1783159293812
+  botProcesses size: 0
+shutdownAll called at 1783160064565
+  botProcesses size: 0
+Static shutdown hook at 1783160064566
+  botProcesses size: 0
+shutdownAll called at 1783160064566
+  botProcesses size: 0
+Static shutdown hook at 1783163245206
+shutdownAll called at 1783163245206
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783164560068
+  botProcesses size: 0
+Static shutdown hook at 1783164560070
+  botProcesses size: 0
+shutdownAll called at 1783164560070
+  botProcesses size: 0
+shutdownAll called at 1783165457286
+Static shutdown hook at 1783165457286
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 1372 for Bot911_YT
+Static shutdown hook at 1783166089059
+  botProcesses size: 1
+shutdownAll called at 1783166089059
+  killed PID 1372
+  botProcesses size: 0
+  REMOVED PID 1372 in finally
+  ADDED PID 11408 for Pro625_123
+Static shutdown hook at 1783167167602
+  botProcesses size: 1
+shutdownAll called at 1783167167602
+  killed PID 11408
+  botProcesses size: 0
+  REMOVED PID 11408 in finally
+  ADDED PID 10504 for Player462_MC
+Static shutdown hook at 1783167632160
+  botProcesses size: 1
+shutdownAll called at 1783167632161
+  killed PID 10504
+  botProcesses size: 0
+  REMOVED PID 10504 in finally
+Static shutdown hook at 1783167741292
+  botProcesses size: 0
+shutdownAll called at 1783167741294
+  botProcesses size: 0
+  ADDED PID 11472 for Cool364_123
+Static shutdown hook at 1783168235842
+  botProcesses size: 1
+shutdownAll called at 1783168235842
+  killed PID 11472
+  botProcesses size: 0
+  REMOVED PID 11472 in finally
+  ADDED PID 3432 for xD674_BW
+Static shutdown hook at 1783169363408
+shutdownAll called at 1783169363408
+  botProcesses size: 1
+  killed PID 3432
+  botProcesses size: 0
+  REMOVED PID 3432 in finally
+  ADDED PID 10252 for Super359HD
+Static shutdown hook at 1783170097644
+  botProcesses size: 1
+shutdownAll called at 1783170097645
+  killed PID 10252
+  botProcesses size: 0
+  REMOVED PID 10252 in finally
+shutdownAll called at 1783170150333
+  botProcesses size: 0
+Static shutdown hook at 1783170150334
+  botProcesses size: 0
+shutdownAll called at 1783170150336
+  botProcesses size: 0
+  ADDED PID 13460 for Mini166MC
+Static shutdown hook at 1783173032964
+  botProcesses size: 1
+shutdownAll called at 1783173032965
+  killed PID 13460
+  botProcesses size: 0
+  REMOVED PID 13460 in finally
+  ADDED PID 7948 for Mini159_OP
+Static shutdown hook at 1783174937172
+shutdownAll called at 1783174937172
+  botProcesses size: 1
+  killed PID 7948
+  botProcesses size: 0
+  REMOVED PID 7948 in finally
+  ADDED PID 10660 for Ultra691_MC
+shutdownAll called at 1783175659301
+  botProcesses size: 0
+Static shutdown hook at 1783175659304
+  botProcesses size: 0
+shutdownAll called at 1783175659304
+  botProcesses size: 0
+  REMOVED PID 10660 in finally
+  ADDED PID 1168 for Legend425_BW
+shutdownAll called at 1783177048334
+  botProcesses size: 0
+Static shutdown hook at 1783177048338
+shutdownAll called at 1783177048338
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 13668 for Mini890_BW
+shutdownAll called at 1783180468279
+  botProcesses size: 1
+  killed PID 13668
+Static shutdown hook at 1783180468282
+  botProcesses size: 0
+shutdownAll called at 1783180468282
+  botProcesses size: 0
+  REMOVED PID 13668 in finally
+  ADDED PID 10936 for Mini678_123
+shutdownAll called at 1783183514996
+  botProcesses size: 1
+  killed PID 10936
+Static shutdown hook at 1783183514999
+  botProcesses size: 0
+  REMOVED PID 10936 in finally
+  ADDED PID 5416 for Noob272MC
+Static shutdown hook at 1783219979957
+shutdownAll called at 1783219979958
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 6892 for Noob231PVP
+  ADDED PID 5252 for Bot509_Pro
+  ADDED PID 3836 for xD294_123
+Static shutdown hook at 1783226283579
+  botProcesses size: 3
+shutdownAll called at 1783226283579
+  killed PID 6892
+  killed PID 5252
+  killed PID 3836
+  botProcesses size: 0
+  REMOVED PID 5252 in finally
+  REMOVED PID 6892 in finally
+  REMOVED PID 3836 in finally
+  ADDED PID 288 for Player325_YT
+Static shutdown hook at 1783227137237
+  botProcesses size: 1
+shutdownAll called at 1783227137238
+  killed PID 288
+  botProcesses size: 0
+  REMOVED PID 288 in finally
+  ADDED PID 4388 for Mini907HD
+Static shutdown hook at 1783228146002
+  botProcesses size: 1
+shutdownAll called at 1783228146002
+  killed PID 4388
+  botProcesses size: 0
+  REMOVED PID 4388 in finally
+  ADDED PID 6012 for Ultra402_Pro
+Static shutdown hook at 1783228784658
+  botProcesses size: 1
+shutdownAll called at 1783228784659
+  killed PID 6012
+  botProcesses size: 0
+  REMOVED PID 6012 in finally
+  ADDED PID 9472 for Bot211_OP
+Static shutdown hook at 1783229058297
+  botProcesses size: 1
+shutdownAll called at 1783229058297
+  killed PID 9472
+  botProcesses size: 0
+  REMOVED PID 9472 in finally
+  ADDED PID 12272 for Cool409_123
+Static shutdown hook at 1783230910667
+  botProcesses size: 1
+shutdownAll called at 1783230910668
+  killed PID 12272
+  botProcesses size: 0
+  REMOVED PID 12272 in finally
+  ADDED PID 3708 for Mini658PVP
+Static shutdown hook at 1783232490482
+  botProcesses size: 1
+shutdownAll called at 1783232490482
+  killed PID 3708
+  botProcesses size: 0
+  REMOVED PID 3708 in finally
+  ADDED PID 6584 for Cool303_XD
+Static shutdown hook at 1783233541913
+  botProcesses size: 1
+shutdownAll called at 1783233541913
+  killed PID 6584
+  botProcesses size: 0
+  REMOVED PID 6584 in finally
+Static shutdown hook at 1783233803685
+shutdownAll called at 1783233803686
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 600 for Pro991_BW
+Static shutdown hook at 1783234768263
+  botProcesses size: 1
+shutdownAll called at 1783234768264
+  killed PID 600
+  botProcesses size: 0
+  REMOVED PID 600 in finally
+shutdownAll called at 1783234806071
+  botProcesses size: 0
+shutdownAll called at 1783234806076
+  botProcesses size: 0
+Static shutdown hook at 1783234806090
+  botProcesses size: 0
+  ADDED PID 10872 for Pro171_YT
+Static shutdown hook at 1783236072053
+  botProcesses size: 1
+shutdownAll called at 1783236072054
+  killed PID 10872
+  botProcesses size: 0
+  REMOVED PID 10872 in finally
+  ADDED PID 11580 for Bot810_123
+Static shutdown hook at 1783237607260
+  botProcesses size: 1
+shutdownAll called at 1783237607261
+  killed PID 11580
+  botProcesses size: 0
+  REMOVED PID 11580 in finally
+  ADDED PID 12520 for Pro292_Pro
+Static shutdown hook at 1783239212913
+shutdownAll called at 1783239212913
+  botProcesses size: 1
+  killed PID 12520
+  botProcesses size: 0
+  REMOVED PID 12520 in finally
+  ADDED PID 12456 for Mini114_XD
+shutdownAll called at 1783239283548
+  botProcesses size: 0
+Static shutdown hook at 1783239283550
+  botProcesses size: 0
+shutdownAll called at 1783239283552
+  botProcesses size: 0
+  REMOVED PID 12456 in finally
+  ADDED PID 5576 for Legend256_OP
+shutdownAll called at 1783239314966
+  botProcesses size: 0
+Static shutdown hook at 1783239314968
+  botProcesses size: 0
+shutdownAll called at 1783239314969
+  botProcesses size: 0
+  REMOVED PID 5576 in finally
+  ADDED PID 11432 for Super942_XD
+shutdownAll called at 1783239547733
+  botProcesses size: 0
+Static shutdown hook at 1783239547737
+  botProcesses size: 0
+shutdownAll called at 1783239547738
+  botProcesses size: 0
+  REMOVED PID 11432 in finally
+  ADDED PID 12696 for Pro690_MC
+Static shutdown hook at 1783242218089
+shutdownAll called at 1783242218089
+  botProcesses size: 1
+  killed PID 12696
+  botProcesses size: 0
+  REMOVED PID 12696 in finally
+  ADDED PID 12164 for Cool111PVP
+shutdownAll called at 1783246803954
+  botProcesses size: 0
+Static shutdown hook at 1783246803957
+  botProcesses size: 0
+shutdownAll called at 1783246803957
+  botProcesses size: 0
+  REMOVED PID 12164 in finally
+shutdownAll called at 1783246810840
+  botProcesses size: 0
+Static shutdown hook at 1783246810842
+shutdownAll called at 1783246810842
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783249782521
+  botProcesses size: 0
+Static shutdown hook at 1783249782523
+  botProcesses size: 0
+shutdownAll called at 1783249782524
+  botProcesses size: 0
+shutdownAll called at 1783250801325
+  botProcesses size: 0
+Static shutdown hook at 1783250801326
+  botProcesses size: 0
+shutdownAll called at 1783250801327
+  botProcesses size: 0
+  ADDED PID 12332 for xD934MC
+  ADDED PID 1028 for Super974_OP
+Static shutdown hook at 1783255865484
+shutdownAll called at 1783255865484
+  botProcesses size: 2
+  killed PID 12332
+  killed PID 1028
+  botProcesses size: 0
+  REMOVED PID 12332 in finally
+  REMOVED PID 1028 in finally
+  ADDED PID 13256 for Bot741PVP
+shutdownAll called at 1783256433922
+  botProcesses size: 1
+  killed PID 13256
+Static shutdown hook at 1783256433925
+  botProcesses size: 0
+shutdownAll called at 1783256433926
+  botProcesses size: 0
+  REMOVED PID 13256 in finally
+  ADDED PID 3520 for Pro880_123
+  ADDED PID 6860 for Legend702_XD
+  ADDED PID 11920 for Super524_BW
+shutdownAll called at 1783297669118
+  botProcesses size: 0
+Static shutdown hook at 1783297669121
+shutdownAll called at 1783297669121
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 3520 in finally
+shutdownAll called at 1783297671945
+  botProcesses size: 0
+Static shutdown hook at 1783297671948
+shutdownAll called at 1783297671948
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 6860 in finally
+shutdownAll called at 1783297674915
+  botProcesses size: 0
+Static shutdown hook at 1783297674918
+shutdownAll called at 1783297674918
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 11920 in finally
+shutdownAll called at 1783297681100
+  botProcesses size: 0
+Static shutdown hook at 1783297681102
+  botProcesses size: 0
+shutdownAll called at 1783297681103
+  botProcesses size: 0
+  ADDED PID 3444 for Mini775MC
+  ADDED PID 1796 for Ultra486_OP
+  ADDED PID 8780 for Ultra301_BW
+shutdownAll called at 1783299828973
+  botProcesses size: 0
+Static shutdown hook at 1783299828975
+  botProcesses size: 0
+shutdownAll called at 1783299828976
+  botProcesses size: 0
+  REMOVED PID 8780 in finally
+shutdownAll called at 1783300182336
+  botProcesses size: 2
+  killed PID 3444
+  killed PID 1796
+Static shutdown hook at 1783300182343
+shutdownAll called at 1783300182344
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 3444 in finally
+  REMOVED PID 1796 in finally
+shutdownAll called at 1783301414700
+  botProcesses size: 0
+Static shutdown hook at 1783301414701
+  botProcesses size: 0
+shutdownAll called at 1783301414702
+  botProcesses size: 0
+shutdownAll called at 1783306080300
+  botProcesses size: 0
+Static shutdown hook at 1783306080301
+  botProcesses size: 0
+shutdownAll called at 1783306080301
+  botProcesses size: 0
+Static shutdown hook at 1783321080062
+  botProcesses size: 0
+shutdownAll called at 1783321080065
+  botProcesses size: 0
+  ADDED PID 12392 for Super261_123
+shutdownAll called at 1783322005280
+  botProcesses size: 1
+  killed PID 12392
+Static shutdown hook at 1783322005284
+  botProcesses size: 0
+shutdownAll called at 1783322005284
+  botProcesses size: 0
+  REMOVED PID 12392 in finally
+Static shutdown hook at 1783322711360
+  botProcesses size: 0
+shutdownAll called at 1783322711361
+  botProcesses size: 0
+shutdownAll called at 1783324128242
+  botProcesses size: 0
+Static shutdown hook at 1783324128243
+  botProcesses size: 0
+shutdownAll called at 1783324128243
+  botProcesses size: 0
+Static shutdown hook at 1783324772943
+  botProcesses size: 0
+shutdownAll called at 1783324772943
+  botProcesses size: 0
+shutdownAll called at 1783327175738
+  botProcesses size: 0
+Static shutdown hook at 1783327175739
+  botProcesses size: 0
+shutdownAll called at 1783327175739
+  botProcesses size: 0
+shutdownAll called at 1783328235229
+  botProcesses size: 0
+Static shutdown hook at 1783328235233
+  botProcesses size: 0
+shutdownAll called at 1783328235238
+  botProcesses size: 0
+Static shutdown hook at 1783338582986
+  botProcesses size: 0
+shutdownAll called at 1783338582986
+  botProcesses size: 0
+Static shutdown hook at 1783338780154
+shutdownAll called at 1783338780155
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783339289863
+  botProcesses size: 0
+Static shutdown hook at 1783339289865
+  botProcesses size: 0
+shutdownAll called at 1783339289865
+  botProcesses size: 0
+shutdownAll called at 1783340187927
+  botProcesses size: 0
+Static shutdown hook at 1783340187928
+  botProcesses size: 0
+shutdownAll called at 1783340187929
+  botProcesses size: 0
+Static shutdown hook at 1783343200325
+  botProcesses size: 0
+shutdownAll called at 1783343200325
+  botProcesses size: 0
+Static shutdown hook at 1783343414133
+  botProcesses size: 0
+shutdownAll called at 1783343414134
+  botProcesses size: 0
+Static shutdown hook at 1783344550131
+  botProcesses size: 0
+shutdownAll called at 1783344550131
+  botProcesses size: 0
+Static shutdown hook at 1783346196207
+  botProcesses size: 0
+shutdownAll called at 1783346196207
+  botProcesses size: 0
+Static shutdown hook at 1783347453842
+  botProcesses size: 0
+shutdownAll called at 1783347453843
+  botProcesses size: 0
+Static shutdown hook at 1783349018700
+shutdownAll called at 1783349018700
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783349895595
+  botProcesses size: 0
+shutdownAll called at 1783349895596
+  botProcesses size: 0
+Static shutdown hook at 1783350920236
+shutdownAll called at 1783350920236
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783352391124
+shutdownAll called at 1783352391124
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 10888 for xD587_XD
+shutdownAll called at 1783353446299
+  botProcesses size: 0
+Static shutdown hook at 1783353446303
+shutdownAll called at 1783353446303
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 10888 in finally
+shutdownAll called at 1783353451840
+  botProcesses size: 0
+Static shutdown hook at 1783353451843
+  botProcesses size: 0
+shutdownAll called at 1783353451844
+  botProcesses size: 0
+  ADDED PID 7884 for xD295_XD
+shutdownAll called at 1783354780247
+  botProcesses size: 0
+Static shutdown hook at 1783354780250
+  botProcesses size: 0
+shutdownAll called at 1783354780251
+  botProcesses size: 0
+  REMOVED PID 7884 in finally
+  ADDED PID 5552 for Noob644_YT
+Static shutdown hook at 1783356602853
+  botProcesses size: 1
+shutdownAll called at 1783356602853
+  killed PID 5552
+  botProcesses size: 0
+  REMOVED PID 5552 in finally
+  ADDED PID 14032 for Legend957_BW
+shutdownAll called at 1783357356507
+  botProcesses size: 1
+  killed PID 14032
+Static shutdown hook at 1783357356511
+  botProcesses size: 0
+shutdownAll called at 1783357356511
+  botProcesses size: 0
+  REMOVED PID 14032 in finally
+  ADDED PID 10184 for Pro143PVP
+Static shutdown hook at 1783394049666
+  botProcesses size: 1
+shutdownAll called at 1783394049666
+  killed PID 10184
+  botProcesses size: 0
+  REMOVED PID 10184 in finally
+  ADDED PID 680 for Noob980_BW
+Static shutdown hook at 1783395172423
+  botProcesses size: 1
+shutdownAll called at 1783395172424
+  killed PID 680
+  botProcesses size: 0
+  REMOVED PID 680 in finally
+  ADDED PID 3200 for xD357HD
+Static shutdown hook at 1783396759212
+  botProcesses size: 1
+shutdownAll called at 1783396759213
+  killed PID 3200
+  botProcesses size: 0
+  REMOVED PID 3200 in finally
+  ADDED PID 10960 for Pro405_YT
+Static shutdown hook at 1783398726804
+shutdownAll called at 1783398726804
+  botProcesses size: 1
+  killed PID 10960
+  botProcesses size: 0
+  REMOVED PID 10960 in finally
+  ADDED PID 5420 for xD334_OP
+Static shutdown hook at 1783399372855
+  botProcesses size: 1
+shutdownAll called at 1783399372856
+  killed PID 5420
+  botProcesses size: 0
+  REMOVED PID 5420 in finally
+  ADDED PID 6352 for xD282_BW
+shutdownAll called at 1783399428821
+  botProcesses size: 0
+Static shutdown hook at 1783399428824
+  botProcesses size: 0
+shutdownAll called at 1783399428825
+  botProcesses size: 0
+  REMOVED PID 6352 in finally
+  ADDED PID 7048 for Bot999_MC
+Static shutdown hook at 1783400668671
+shutdownAll called at 1783400668672
+  botProcesses size: 1
+  killed PID 7048
+  botProcesses size: 0
+  REMOVED PID 7048 in finally
+  ADDED PID 7304 for Pro654_MC
+Static shutdown hook at 1783401541708
+  botProcesses size: 1
+shutdownAll called at 1783401541710
+  killed PID 7304
+  botProcesses size: 0
+  REMOVED PID 7304 in finally
+  ADDED PID 9076 for xD977_BW
+Static shutdown hook at 1783404196373
+  botProcesses size: 1
+shutdownAll called at 1783404196373
+  killed PID 9076
+  botProcesses size: 0
+  REMOVED PID 9076 in finally
+  ADDED PID 8712 for Noob563PVP
+Static shutdown hook at 1783405471487
+  botProcesses size: 1
+shutdownAll called at 1783405471488
+  killed PID 8712
+  botProcesses size: 0
+  REMOVED PID 8712 in finally
+  ADDED PID 8980 for xD136_OP
+shutdownAll called at 1783405715987
+  botProcesses size: 0
+Static shutdown hook at 1783405715988
+  botProcesses size: 0
+shutdownAll called at 1783405715989
+  botProcesses size: 0
+  REMOVED PID 8980 in finally
+shutdownAll called at 1783411135315
+  botProcesses size: 0
+Static shutdown hook at 1783411135317
+  botProcesses size: 0
+shutdownAll called at 1783411135317
+  botProcesses size: 0
+  ADDED PID 6584 for Bot867HD
+Static shutdown hook at 1783415825502
+  botProcesses size: 1
+shutdownAll called at 1783415825503
+  killed PID 6584
+  botProcesses size: 0
+  REMOVED PID 6584 in finally
+  ADDED PID 13196 for Bot291_MC
+Static shutdown hook at 1783416285761
+  botProcesses size: 1
+shutdownAll called at 1783416285761
+  killed PID 13196
+  botProcesses size: 0
+  REMOVED PID 13196 in finally
+  ADDED PID 12144 for Mini648MC
+shutdownAll called at 1783418172416
+  botProcesses size: 0
+Static shutdown hook at 1783418172419
+  botProcesses size: 0
+shutdownAll called at 1783418172419
+  botProcesses size: 0
+  ADDED PID 10292 for Super125_OP
+shutdownAll called at 1783418181485
+  botProcesses size: 1
+  killed PID 10292
+Static shutdown hook at 1783418181489
+  botProcesses size: 0
+shutdownAll called at 1783418181491
+  botProcesses size: 0
+  REMOVED PID 10292 in finally
+  ADDED PID 4932 for Legend661_BW
+shutdownAll called at 1783419436501
+  botProcesses size: 0
+Static shutdown hook at 1783419436503
+  botProcesses size: 0
+shutdownAll called at 1783419436504
+  botProcesses size: 0
+  ADDED PID 7368 for Mini569_XD
+Static shutdown hook at 1783420875476
+shutdownAll called at 1783420875476
+  botProcesses size: 1
+  killed PID 7368
+  botProcesses size: 0
+  REMOVED PID 7368 in finally
+  ADDED PID 13128 for Noob741PVP
+shutdownAll called at 1783421988486
+  botProcesses size: 0
+Static shutdown hook at 1783421988489
+shutdownAll called at 1783421988489
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 5300 for Cool678_YT
+shutdownAll called at 1783422145503
+  botProcesses size: 0
+Static shutdown hook at 1783422145509
+  botProcesses size: 0
+shutdownAll called at 1783422145511
+  botProcesses size: 0
+  REMOVED PID 5300 in finally
+  ADDED PID 3504 for Super175_YT
+Static shutdown hook at 1783422677601
+  botProcesses size: 1
+shutdownAll called at 1783422677602
+  killed PID 3504
+  botProcesses size: 0
+  REMOVED PID 3504 in finally
+  ADDED PID 1396 for xD287MC
+shutdownAll called at 1783423006838
+  botProcesses size: 1
+  killed PID 1396
+Static shutdown hook at 1783423006843
+  botProcesses size: 0
+shutdownAll called at 1783423006843
+  botProcesses size: 0
+  REMOVED PID 1396 in finally
+shutdownAll called at 1783423645484
+  botProcesses size: 0
+Static shutdown hook at 1783423645487
+  botProcesses size: 0
+shutdownAll called at 1783423645488
+  botProcesses size: 0
+  ADDED PID 12640 for Cool744_XD
+shutdownAll called at 1783424484076
+  botProcesses size: 0
+Static shutdown hook at 1783424484078
+  botProcesses size: 0
+shutdownAll called at 1783424484085
+  botProcesses size: 0
+  ADDED PID 10988 for Ultra980_Pro
+shutdownAll called at 1783424925427
+  botProcesses size: 0
+Static shutdown hook at 1783424925431
+  botProcesses size: 0
+shutdownAll called at 1783424925433
+  botProcesses size: 0
+  REMOVED PID 10988 in finally
+  ADDED PID 13972 for Player998_OP
+shutdownAll called at 1783424980919
+  botProcesses size: 0
+Static shutdown hook at 1783424980921
+  botProcesses size: 0
+shutdownAll called at 1783424980922
+  botProcesses size: 0
+  ADDED PID 8624 for Bot869_OP
+shutdownAll called at 1783427743592
+  botProcesses size: 0
+Static shutdown hook at 1783427743594
+shutdownAll called at 1783427743594
+  botProcesses size: 0
+  botProcesses size: 0
+  REMOVED PID 8624 in finally
+  ADDED PID 10156 for xD236PVP
+Static shutdown hook at 1783427894486
+  botProcesses size: 1
+shutdownAll called at 1783427894487
+  killed PID 10156
+  botProcesses size: 0
+  REMOVED PID 10156 in finally
+  ADDED PID 11216 for Mini344_OP
+shutdownAll called at 1783429241063
+  botProcesses size: 0
+Static shutdown hook at 1783429241064
+  botProcesses size: 0
+shutdownAll called at 1783429241065
+  botProcesses size: 0
+  ADDED PID 2208 for Legend884_MC
+shutdownAll called at 1783429539924
+  botProcesses size: 0
+Static shutdown hook at 1783429539928
+  botProcesses size: 0
+shutdownAll called at 1783429539929
+  botProcesses size: 0
+  REMOVED PID 2208 in finally
+  ADDED PID 10972 for Player521HD
+Static shutdown hook at 1783431725867
+  botProcesses size: 1
+shutdownAll called at 1783431725867
+  killed PID 10972
+  botProcesses size: 0
+  REMOVED PID 10972 in finally
+  ADDED PID 15232 for Noob883MC
+Static shutdown hook at 1783436221987
+shutdownAll called at 1783436221987
+  botProcesses size: 1
+  killed PID 15232
+  botProcesses size: 0
+  REMOVED PID 15232 in finally
+shutdownAll called at 1783436365178
+  botProcesses size: 0
+Static shutdown hook at 1783436365179
+  botProcesses size: 0
+shutdownAll called at 1783436365181
+  botProcesses size: 0
+  ADDED PID 9380 for Ultra199_Pro
+Static shutdown hook at 1783437481233
+  botProcesses size: 1
+shutdownAll called at 1783437481234
+  killed PID 9380
+  botProcesses size: 0
+  REMOVED PID 9380 in finally
+  ADDED PID 6160 for Super903_Pro
+Static shutdown hook at 1783438274607
+  botProcesses size: 1
+shutdownAll called at 1783438274607
+  killed PID 6160
+  botProcesses size: 0
+  REMOVED PID 6160 in finally
+  ADDED PID 9580 for Ultra280MC
+Static shutdown hook at 1783439260446
+  botProcesses size: 1
+shutdownAll called at 1783439260446
+  killed PID 9580
+  botProcesses size: 0
+  REMOVED PID 9580 in finally
+  ADDED PID 10768 for xD886_Pro
+shutdownAll called at 1783439320803
+  botProcesses size: 0
+Static shutdown hook at 1783439320806
+  botProcesses size: 0
+shutdownAll called at 1783439320807
+  botProcesses size: 0
+  REMOVED PID 10768 in finally
+  ADDED PID 11440 for Super471_MC
+shutdownAll called at 1783439344854
+  botProcesses size: 0
+Static shutdown hook at 1783439344858
+  botProcesses size: 0
+shutdownAll called at 1783439344859
+  botProcesses size: 0
+  REMOVED PID 11440 in finally
+  ADDED PID 8880 for Super867PVP
+  ADDED PID 5436 for xD136HD
+  REMOVED PID 5436 in finally
+shutdownAll called at 1783440529108
+  botProcesses size: 0
+Static shutdown hook at 1783440529112
+  botProcesses size: 0
+shutdownAll called at 1783440529112
+  botProcesses size: 0
+  ADDED PID 9496 for Super972PVP
+shutdownAll called at 1783441236707
+  botProcesses size: 0
+Static shutdown hook at 1783441236710
+  botProcesses size: 0
+shutdownAll called at 1783441236710
+  botProcesses size: 0
+  REMOVED PID 9496 in finally
+  ADDED PID 11492 for Mini791_XD
+  ADDED PID 6220 for Mini863MC
+  REMOVED PID 6220 in finally
+shutdownAll called at 1783441751507
+  botProcesses size: 0
+Static shutdown hook at 1783441751510
+  botProcesses size: 0
+shutdownAll called at 1783441751510
+  botProcesses size: 0
+  REMOVED PID 11492 in finally
+Static shutdown hook at 1783442345098
+  botProcesses size: 0
+shutdownAll called at 1783442345098
+  botProcesses size: 0
+  ADDED PID 7164 for Pro655_XD
+  ADDED PID 6612 for Mini154_Pro
+shutdownAll called at 1783442552180
+  botProcesses size: 0
+Static shutdown hook at 1783442552182
+  botProcesses size: 0
+shutdownAll called at 1783442552183
+  botProcesses size: 0
+  REMOVED PID 6612 in finally
+  ADDED PID 7516 for Cool678_BW
+shutdownAll called at 1783442702376
+  botProcesses size: 0
+Static shutdown hook at 1783442702377
+  botProcesses size: 0
+shutdownAll called at 1783442702377
+  botProcesses size: 0
+  REMOVED PID 7516 in finally
+shutdownAll called at 1783442705992
+  botProcesses size: 0
+Static shutdown hook at 1783442705995
+  botProcesses size: 0
+shutdownAll called at 1783442705995
+  botProcesses size: 0
+  REMOVED PID 7164 in finally
+Static shutdown hook at 1783445730897
+  botProcesses size: 0
+shutdownAll called at 1783445730898
+  botProcesses size: 0
+shutdownAll called at 1783447126284
+  botProcesses size: 0
+Static shutdown hook at 1783447126286
+  botProcesses size: 0
+shutdownAll called at 1783447126287
+  botProcesses size: 0
+Static shutdown hook at 1783505407247
+  botProcesses size: 0
+shutdownAll called at 1783505407248
+  botProcesses size: 0
+Static shutdown hook at 1783505665978
+  botProcesses size: 0
+shutdownAll called at 1783505665979
+  botProcesses size: 0
+Static shutdown hook at 1783507440942
+  botProcesses size: 0
+shutdownAll called at 1783507440944
+  botProcesses size: 0
+  ADDED PID 3404 for Ultra109_OP
+shutdownAll called at 1783507512316
+  botProcesses size: 0
+Static shutdown hook at 1783507512324
+  botProcesses size: 0
+shutdownAll called at 1783507512514
+  botProcesses size: 0
+  REMOVED PID 3404 in finally
+  ADDED PID 11448 for Super525PVP
+shutdownAll called at 1783507728983
+  botProcesses size: 0
+Static shutdown hook at 1783507728986
+  botProcesses size: 0
+shutdownAll called at 1783507729236
+  botProcesses size: 0
+  ADDED PID 2568 for Cool881MC
+shutdownAll called at 1783509856104
+  botProcesses size: 0
+Static shutdown hook at 1783509856114
+  botProcesses size: 0
+shutdownAll called at 1783509856184
+  botProcesses size: 0
+  ADDED PID 3736 for Cool293_Pro
+Static shutdown hook at 1783510890853
+  botProcesses size: 1
+shutdownAll called at 1783510890854
+  killed PID 3736
+  botProcesses size: 0
+  REMOVED PID 3736 in finally
+  ADDED PID 2376 for Super476_MC
+shutdownAll called at 1783510969868
+  botProcesses size: 0
+shutdownAll called at 1783510969873
+  botProcesses size: 0
+Static shutdown hook at 1783510969874
+  botProcesses size: 0
+  REMOVED PID 2376 in finally
+Static shutdown hook at 1783511044455
+  botProcesses size: 0
+shutdownAll called at 1783511044456
+  botProcesses size: 0
+  ADDED PID 7708 for Noob728_MC
+Static shutdown hook at 1783511598873
+  botProcesses size: 1
+shutdownAll called at 1783511598874
+  killed PID 7708
+  botProcesses size: 0
+  REMOVED PID 7708 in finally
+  ADDED PID 11684 for Bot339_Pro
+shutdownAll called at 1783512096864
+  botProcesses size: 1
+  killed PID 11684
+Static shutdown hook at 1783512096867
+  botProcesses size: 0
+shutdownAll called at 1783512096867
+  botProcesses size: 0
+  REMOVED PID 11684 in finally
+  ADDED PID 12728 for Player426_XD
+Static shutdown hook at 1783590109548
+  botProcesses size: 1
+shutdownAll called at 1783590109549
+  killed PID 12728
+  botProcesses size: 0
+  REMOVED PID 12728 in finally
+  ADDED PID 3672 for Ultra209_123
+Static shutdown hook at 1783592218457
+  botProcesses size: 1
+shutdownAll called at 1783592218458
+  killed PID 3672
+  botProcesses size: 0
+  REMOVED PID 3672 in finally
+  ADDED PID 12912 for Pro263_YT
+shutdownAll called at 1783592763742
+  botProcesses size: 0
+Static shutdown hook at 1783592763744
+  botProcesses size: 0
+shutdownAll called at 1783592763745
+  botProcesses size: 0
+  REMOVED PID 12912 in finally
+  ADDED PID 10632 for xD570_YT
+shutdownAll called at 1783593297960
+  botProcesses size: 1
+  killed PID 10632
+Static shutdown hook at 1783593297966
+  botProcesses size: 0
+shutdownAll called at 1783593297966
+  botProcesses size: 0
+  REMOVED PID 10632 in finally
+Static shutdown hook at 1783595255532
+  botProcesses size: 0
+shutdownAll called at 1783595255534
+  botProcesses size: 0
+  ADDED PID 10364 for Noob474_MC
+Static shutdown hook at 1783596046726
+  botProcesses size: 1
+shutdownAll called at 1783596046726
+  killed PID 10364
+  botProcesses size: 0
+  REMOVED PID 10364 in finally
+  ADDED PID 11524 for Legend973HD
+Static shutdown hook at 1783596809029
+  botProcesses size: 1
+shutdownAll called at 1783596809029
+  killed PID 11524
+  botProcesses size: 0
+  REMOVED PID 11524 in finally
+  ADDED PID 11196 for Super421_Pro
+Static shutdown hook at 1783598638988
+shutdownAll called at 1783598638988
+  botProcesses size: 1
+  killed PID 11196
+  botProcesses size: 0
+  REMOVED PID 11196 in finally
+  ADDED PID 6496 for Mini680MC
+shutdownAll called at 1783598698197
+  botProcesses size: 0
+Static shutdown hook at 1783598698200
+  botProcesses size: 0
+shutdownAll called at 1783598698201
+  botProcesses size: 0
+  REMOVED PID 6496 in finally
+  ADDED PID 32 for Noob791HD
+shutdownAll called at 1783601256958
+  botProcesses size: 0
+Static shutdown hook at 1783601256962
+  botProcesses size: 0
+shutdownAll called at 1783601256962
+  botProcesses size: 0
+  REMOVED PID 32 in finally
+shutdownAll called at 1783602213120
+  botProcesses size: 0
+Static shutdown hook at 1783602213122
+  botProcesses size: 0
+shutdownAll called at 1783602213126
+  botProcesses size: 0
+Static shutdown hook at 1783604810937
+  botProcesses size: 0
+shutdownAll called at 1783604810938
+  botProcesses size: 0
+Static shutdown hook at 1783605382362
+  botProcesses size: 0
+shutdownAll called at 1783605382363
+  botProcesses size: 0
+Static shutdown hook at 1783605617916
+  botProcesses size: 0
+shutdownAll called at 1783605617917
+  botProcesses size: 0
+Static shutdown hook at 1783606386359
+  botProcesses size: 0
+shutdownAll called at 1783606386359
+  botProcesses size: 0
+Static shutdown hook at 1783606419568
+  botProcesses size: 0
+shutdownAll called at 1783606419569
+  botProcesses size: 0
+Static shutdown hook at 1783606990242
+  botProcesses size: 0
+shutdownAll called at 1783606990243
+  botProcesses size: 0
+shutdownAll called at 1783609937967
+  botProcesses size: 0
+Static shutdown hook at 1783609937968
+  botProcesses size: 0
+shutdownAll called at 1783609937969
+  botProcesses size: 0
+Static shutdown hook at 1783610976710
+  botProcesses size: 0
+shutdownAll called at 1783610976711
+  botProcesses size: 0
+Static shutdown hook at 1783611195104
+  botProcesses size: 0
+shutdownAll called at 1783611195105
+  botProcesses size: 0
+Static shutdown hook at 1783611448278
+  botProcesses size: 0
+shutdownAll called at 1783611448279
+  botProcesses size: 0
+Static shutdown hook at 1783611969202
+  botProcesses size: 0
+shutdownAll called at 1783611969203
+  botProcesses size: 0
+Static shutdown hook at 1783612550952
+  botProcesses size: 0
+shutdownAll called at 1783612550954
+  botProcesses size: 0
+shutdownAll called at 1783612833730
+  botProcesses size: 0
+Static shutdown hook at 1783612833731
+  botProcesses size: 0
+shutdownAll called at 1783612833732
+  botProcesses size: 0
+shutdownAll called at 1783613089187
+  botProcesses size: 0
+Static shutdown hook at 1783613089188
+  botProcesses size: 0
+shutdownAll called at 1783613089189
+  botProcesses size: 0
+Static shutdown hook at 1783662707003
+shutdownAll called at 1783662707003
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783663487720
+  botProcesses size: 0
+Static shutdown hook at 1783663487722
+  botProcesses size: 0
+shutdownAll called at 1783663487723
+  botProcesses size: 0
+Static shutdown hook at 1783664539190
+  botProcesses size: 0
+shutdownAll called at 1783664539192
+  botProcesses size: 0
+shutdownAll called at 1783664678953
+  botProcesses size: 0
+Static shutdown hook at 1783664678954
+  botProcesses size: 0
+shutdownAll called at 1783664678955
+  botProcesses size: 0
+Static shutdown hook at 1783665776903
+  botProcesses size: 0
+shutdownAll called at 1783665776905
+  botProcesses size: 0
+Static shutdown hook at 1783666650049
+  botProcesses size: 0
+shutdownAll called at 1783666650051
+  botProcesses size: 0
+shutdownAll called at 1783666754760
+  botProcesses size: 0
+Static shutdown hook at 1783666754761
+  botProcesses size: 0
+shutdownAll called at 1783666754762
+  botProcesses size: 0
+Static shutdown hook at 1783667838228
+  botProcesses size: 0
+shutdownAll called at 1783667838250
+  botProcesses size: 0
+shutdownAll called at 1783668038413
+  botProcesses size: 0
+Static shutdown hook at 1783668038414
+  botProcesses size: 0
+shutdownAll called at 1783668038416
+  botProcesses size: 0
+shutdownAll called at 1783668920710
+  botProcesses size: 0
+Static shutdown hook at 1783668920711
+  botProcesses size: 0
+shutdownAll called at 1783668920712
+  botProcesses size: 0
+shutdownAll called at 1783669338203
+  botProcesses size: 0
+Static shutdown hook at 1783669338205
+  botProcesses size: 0
+shutdownAll called at 1783669338206
+  botProcesses size: 0
+Static shutdown hook at 1783776020077
+  botProcesses size: 0
+shutdownAll called at 1783776020077
+  botProcesses size: 0
+Static shutdown hook at 1783776370924
+  botProcesses size: 0
+shutdownAll called at 1783776370925
+  botProcesses size: 0
+Static shutdown hook at 1783777233129
+  botProcesses size: 0
+shutdownAll called at 1783777233131
+  botProcesses size: 0
+Static shutdown hook at 1783778421158
+  botProcesses size: 0
+shutdownAll called at 1783778421158
+  botProcesses size: 0
+shutdownAll called at 1783778769939
+  botProcesses size: 0
+Static shutdown hook at 1783778769942
+  botProcesses size: 0
+shutdownAll called at 1783778769943
+  botProcesses size: 0
+Static shutdown hook at 1783780382492
+  botProcesses size: 0
+shutdownAll called at 1783780382492
+  botProcesses size: 0
+shutdownAll called at 1783780592735
+  botProcesses size: 0
+Static shutdown hook at 1783780592736
+  botProcesses size: 0
+shutdownAll called at 1783780592736
+  botProcesses size: 0
+Static shutdown hook at 1783780954297
+  botProcesses size: 0
+shutdownAll called at 1783780954297
+  botProcesses size: 0
+Static shutdown hook at 1783781310879
+shutdownAll called at 1783781310880
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783781614408
+  botProcesses size: 0
+Static shutdown hook at 1783781614410
+  botProcesses size: 0
+shutdownAll called at 1783781614410
+  botProcesses size: 0
+Static shutdown hook at 1783782581705
+shutdownAll called at 1783782581705
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783784685236
+shutdownAll called at 1783784685237
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783785502589
+  botProcesses size: 0
+shutdownAll called at 1783785502589
+  botProcesses size: 0
+shutdownAll called at 1783786270532
+  botProcesses size: 0
+Static shutdown hook at 1783786270534
+  botProcesses size: 0
+shutdownAll called at 1783786270535
+  botProcesses size: 0
+Static shutdown hook at 1783787744398
+  botProcesses size: 0
+shutdownAll called at 1783787744399
+  botProcesses size: 0
+Static shutdown hook at 1783787826804
+shutdownAll called at 1783787826805
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783847130311
+shutdownAll called at 1783847130311
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783849132778
+shutdownAll called at 1783849132779
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783849697264
+  botProcesses size: 0
+Static shutdown hook at 1783849697265
+  botProcesses size: 0
+shutdownAll called at 1783849697266
+  botProcesses size: 0
+shutdownAll called at 1783850144895
+  botProcesses size: 0
+Static shutdown hook at 1783850144896
+  botProcesses size: 0
+shutdownAll called at 1783850144896
+  botProcesses size: 0
+Static shutdown hook at 1783857657900
+shutdownAll called at 1783857657901
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1783859234855
+shutdownAll called at 1783859234855
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783864360866
+  botProcesses size: 0
+Static shutdown hook at 1783864360867
+  botProcesses size: 0
+shutdownAll called at 1783864360868
+  botProcesses size: 0
+shutdownAll called at 1783958431795
+Static shutdown hook at 1783958431795
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1783958534236
+  botProcesses size: 0
+Static shutdown hook at 1783958534237
+  botProcesses size: 0
+shutdownAll called at 1783958534239
+  botProcesses size: 0
+Static shutdown hook at 1784035657243
+  botProcesses size: 0
+shutdownAll called at 1784035657243
+  botProcesses size: 0
+Static shutdown hook at 1784035850146
+shutdownAll called at 1784035850146
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784036374367
+shutdownAll called at 1784036374367
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784036436025
+  botProcesses size: 0
+shutdownAll called at 1784036436026
+  botProcesses size: 0
+Static shutdown hook at 1784036916111
+shutdownAll called at 1784036916112
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784037695460
+shutdownAll called at 1784037695461
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784038167765
+shutdownAll called at 1784038167765
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784038462509
+shutdownAll called at 1784038462509
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784038632081
+Static shutdown hook at 1784038632080
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784039173909
+Static shutdown hook at 1784039173908
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784039592264
+  botProcesses size: 0
+Static shutdown hook at 1784039592266
+  botProcesses size: 0
+shutdownAll called at 1784039592266
+  botProcesses size: 0
+Static shutdown hook at 1784045578771
+shutdownAll called at 1784045578772
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784046446966
+shutdownAll called at 1784046446966
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784046534149
+  botProcesses size: 0
+shutdownAll called at 1784046534150
+  botProcesses size: 0
+shutdownAll called at 1784048885263
+  botProcesses size: 0
+Static shutdown hook at 1784048885265
+  botProcesses size: 0
+shutdownAll called at 1784048885265
+  botProcesses size: 0
+Static shutdown hook at 1784049299827
+shutdownAll called at 1784049299827
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784051843521
+  botProcesses size: 0
+Static shutdown hook at 1784051843522
+  botProcesses size: 0
+shutdownAll called at 1784051843523
+  botProcesses size: 0
+  ADDED PID 9288 for Noob900PVP
+shutdownAll called at 1784057362902
+  botProcesses size: 0
+Static shutdown hook at 1784057362904
+  botProcesses size: 0
+shutdownAll called at 1784057362905
+  botProcesses size: 0
+  ADDED PID 8024 for Cool982_OP
+shutdownAll called at 1784057749680
+  botProcesses size: 0
+Static shutdown hook at 1784057749682
+  botProcesses size: 0
+shutdownAll called at 1784057749682
+  botProcesses size: 0
+  REMOVED PID 8024 in finally
+shutdownAll called at 1784057898182
+  botProcesses size: 0
+Static shutdown hook at 1784057898183
+shutdownAll called at 1784057898184
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 3708 for Pro815MC
+shutdownAll called at 1784058498639
+  botProcesses size: 0
+Static shutdown hook at 1784058498643
+  botProcesses size: 0
+shutdownAll called at 1784058498643
+  botProcesses size: 0
+  REMOVED PID 3708 in finally
+  ADDED PID 2120 for Ultra603_Pro
+  ADDED PID 9272 for Cool748_OP
+shutdownAll called at 1784058890569
+  botProcesses size: 0
+Static shutdown hook at 1784058890570
+  botProcesses size: 0
+shutdownAll called at 1784058890571
+  botProcesses size: 0
+  REMOVED PID 9272 in finally
+Static shutdown hook at 1784059083450
+shutdownAll called at 1784059083451
+  botProcesses size: 1
+  killed PID 2120
+  botProcesses size: 0
+  REMOVED PID 2120 in finally
+  ADDED PID 7936 for Super322_OP
+Static shutdown hook at 1784059760048
+shutdownAll called at 1784059760049
+  botProcesses size: 1
+  killed PID 7936
+  botProcesses size: 0
+  REMOVED PID 7936 in finally
+  ADDED PID 9504 for Noob136_BW
+Static shutdown hook at 1784060918592
+  botProcesses size: 1
+shutdownAll called at 1784060918593
+  killed PID 9504
+  botProcesses size: 0
+  REMOVED PID 9504 in finally
+  ADDED PID 11528 for Bot420_OP
+Static shutdown hook at 1784062561924
+  botProcesses size: 1
+  killed PID 11528
+shutdownAll called at 1784062561933
+  botProcesses size: 0
+  REMOVED PID 11528 in finally
+  ADDED PID 1352 for Mini516_XD
+Static shutdown hook at 1784063291558
+  botProcesses size: 1
+shutdownAll called at 1784063291558
+  killed PID 1352
+  botProcesses size: 0
+  REMOVED PID 1352 in finally
+  ADDED PID 11344 for Ultra887_123
+  ADDED PID 8724 for Bot389MC
+Static shutdown hook at 1784118925898
+  botProcesses size: 1
+shutdownAll called at 1784118925899
+  killed PID 8724
+  botProcesses size: 0
+  REMOVED PID 8724 in finally
+shutdownAll called at 1784119502002
+  botProcesses size: 0
+Static shutdown hook at 1784119502004
+shutdownAll called at 1784119502004
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784121646273
+shutdownAll called at 1784121646273
+  botProcesses size: 0
+  botProcesses size: 0
+  ADDED PID 3700 for Pro260PVP
+Static shutdown hook at 1784122866537
+  botProcesses size: 1
+shutdownAll called at 1784122866538
+  killed PID 3700
+  botProcesses size: 0
+  REMOVED PID 3700 in finally
+  ADDED PID 1192 for Super626_XD
+Static shutdown hook at 1784125151792
+shutdownAll called at 1784125151792
+  botProcesses size: 1
+  killed PID 1192
+  botProcesses size: 0
+  REMOVED PID 1192 in finally
+  ADDED PID 10444 for xD619_MC
+Static shutdown hook at 1784127010812
+  botProcesses size: 1
+shutdownAll called at 1784127010813
+  killed PID 10444
+  botProcesses size: 0
+  REMOVED PID 10444 in finally
+  ADDED PID 10540 for Ultra641_OP
+shutdownAll called at 1784128555958
+  botProcesses size: 0
+Static shutdown hook at 1784128555961
+  botProcesses size: 0
+shutdownAll called at 1784128555962
+  botProcesses size: 0
+  REMOVED PID 10540 in finally
+  ADDED PID 4300 for Super927_XD
+shutdownAll called at 1784128578697
+  botProcesses size: 0
+Static shutdown hook at 1784128578701
+  botProcesses size: 0
+shutdownAll called at 1784128578701
+  botProcesses size: 0
+  REMOVED PID 4300 in finally
+Static shutdown hook at 1784128580258
+  botProcesses size: 0
+shutdownAll called at 1784128580259
+  botProcesses size: 0
+  ADDED PID 9400 for Pro454MC
+Static shutdown hook at 1784129884608
+  botProcesses size: 1
+shutdownAll called at 1784129884609
+  killed PID 9400
+  botProcesses size: 0
+  REMOVED PID 9400 in finally
+  ADDED PID 14132 for Cool149_OP
+Static shutdown hook at 1784131554620
+  botProcesses size: 1
+shutdownAll called at 1784131554621
+  killed PID 14132
+  botProcesses size: 0
+  REMOVED PID 14132 in finally
+  ADDED PID 7832 for Noob322_MC
+Static shutdown hook at 1784132498461
+  botProcesses size: 1
+shutdownAll called at 1784132498462
+  killed PID 7832
+  botProcesses size: 0
+  REMOVED PID 7832 in finally
+  ADDED PID 14008 for Legend729_Pro
+Static shutdown hook at 1784133620856
+  botProcesses size: 1
+  killed PID 14008
+shutdownAll called at 1784133620858
+  botProcesses size: 0
+  REMOVED PID 14008 in finally
+  ADDED PID 13796 for Pro901_YT
+Static shutdown hook at 1784134598249
+  botProcesses size: 1
+  killed PID 13796
+shutdownAll called at 1784134598252
+  botProcesses size: 0
+  REMOVED PID 13796 in finally
+  ADDED PID 3176 for Legend163_Pro
+shutdownAll called at 1784135889379
+  botProcesses size: 0
+Static shutdown hook at 1784135889383
+  botProcesses size: 0
+shutdownAll called at 1784135889385
+  botProcesses size: 0
+  REMOVED PID 3176 in finally
+  ADDED PID 9092 for Noob581PVP
+Static shutdown hook at 1784136667307
+  botProcesses size: 1
+shutdownAll called at 1784136667307
+  killed PID 9092
+  botProcesses size: 0
+  REMOVED PID 9092 in finally
+  ADDED PID 12560 for Ultra238PVP
+Static shutdown hook at 1784138305889
+  botProcesses size: 1
+shutdownAll called at 1784138305890
+  killed PID 12560
+  botProcesses size: 0
+  REMOVED PID 12560 in finally
+Static shutdown hook at 1784142873774
+  botProcesses size: 0
+shutdownAll called at 1784142873774
+  botProcesses size: 0
+  ADDED PID 1184 for Super167MC
+  ADDED PID 9684 for xD923_123
+shutdownAll called at 1784143949103
+  botProcesses size: 0
+Static shutdown hook at 1784143949106
+  botProcesses size: 0
+shutdownAll called at 1784143949106
+  botProcesses size: 0
+  REMOVED PID 9684 in finally
+shutdownAll called at 1784143956490
+  botProcesses size: 0
+Static shutdown hook at 1784143956491
+  botProcesses size: 0
+shutdownAll called at 1784143956492
+  botProcesses size: 0
+  REMOVED PID 1184 in finally
+  ADDED PID 14392 for Super867_Pro
+Static shutdown hook at 1784144595508
+  botProcesses size: 1
+shutdownAll called at 1784144595509
+  killed PID 14392
+  botProcesses size: 0
+  REMOVED PID 14392 in finally
+  ADDED PID 10768 for Mini585MC
+Static shutdown hook at 1784148272069
+  botProcesses size: 1
+shutdownAll called at 1784148272069
+  killed PID 10768
+  botProcesses size: 0
+  REMOVED PID 10768 in finally
+  ADDED PID 14572 for Super809_Pro
+shutdownAll called at 1784148957552
+  botProcesses size: 0
+Static shutdown hook at 1784148957555
+  botProcesses size: 0
+shutdownAll called at 1784148957555
+  botProcesses size: 0
+Static shutdown hook at 1784148977728
+  botProcesses size: 0
+shutdownAll called at 1784148977730
+  botProcesses size: 0
+  ADDED PID 13472 for Ultra724_XD
+Static shutdown hook at 1784149660181
+shutdownAll called at 1784149660181
+  botProcesses size: 1
+  killed PID 13472
+  botProcesses size: 0
+  REMOVED PID 13472 in finally
+Static shutdown hook at 1784149707248
+  botProcesses size: 0
+shutdownAll called at 1784149707249
+  botProcesses size: 0
+  ADDED PID 8244 for Pro111_XD
+Static shutdown hook at 1784151533349
+  botProcesses size: 1
+shutdownAll called at 1784151533350
+  killed PID 8244
+  botProcesses size: 0
+  REMOVED PID 8244 in finally
+  ADDED PID 10416 for Pro418PVP
+Static shutdown hook at 1784153947379
+  botProcesses size: 1
+shutdownAll called at 1784153947379
+  killed PID 10416
+  botProcesses size: 0
+  REMOVED PID 10416 in finally
+Static shutdown hook at 1784155003152
+  botProcesses size: 0
+shutdownAll called at 1784155003153
+  botProcesses size: 0
+  ADDED PID 11980 for Super671_Pro
+Static shutdown hook at 1784197699571
+  botProcesses size: 1
+shutdownAll called at 1784197699572
+  killed PID 11980
+  botProcesses size: 0
+  REMOVED PID 11980 in finally
+  ADDED PID 10356 for Pro419_MC
+Static shutdown hook at 1784198892671
+  botProcesses size: 1
+  killed PID 10356
+shutdownAll called at 1784198892724
+  botProcesses size: 0
+  REMOVED PID 10356 in finally
+  ADDED PID 11088 for Cool411_XD
+Static shutdown hook at 1784200157511
+  botProcesses size: 1
+shutdownAll called at 1784200157511
+  killed PID 11088
+  botProcesses size: 0
+  REMOVED PID 11088 in finally
+  ADDED PID 8320 for Mini727_YT
+Static shutdown hook at 1784202078634
+  botProcesses size: 1
+shutdownAll called at 1784202078635
+  killed PID 8320
+  botProcesses size: 0
+  REMOVED PID 8320 in finally
+  ADDED PID 11480 for Cool641PVP
+Static shutdown hook at 1784202911462
+  botProcesses size: 1
+shutdownAll called at 1784202911463
+  killed PID 11480
+  botProcesses size: 0
+  REMOVED PID 11480 in finally
+  ADDED PID 12720 for Player823_OP
+shutdownAll called at 1784203173363
+  botProcesses size: 0
+Static shutdown hook at 1784203173366
+  botProcesses size: 0
+shutdownAll called at 1784203173367
+  botProcesses size: 0
+  REMOVED PID 12720 in finally
+  ADDED PID 1872 for Noob397PVP
+Static shutdown hook at 1784204383532
+  botProcesses size: 1
+shutdownAll called at 1784204383532
+  killed PID 1872
+  botProcesses size: 0
+  ADDED PID 13112 for Pro296_XD
+  ADDED PID 10260 for Ultra808_123
+  ADDED PID 8040 for Mini846MC
+  ADDED PID 11320 for xD164_OP
+shutdownAll called at 1784206905695
+  botProcesses size: 0
+Static shutdown hook at 1784206905697
+  botProcesses size: 0
+shutdownAll called at 1784206905699
+  botProcesses size: 0
+  REMOVED PID 13112 in finally
+shutdownAll called at 1784206913374
+  botProcesses size: 0
+Static shutdown hook at 1784206913377
+  botProcesses size: 0
+shutdownAll called at 1784206913378
+  botProcesses size: 0
+  REMOVED PID 10260 in finally
+shutdownAll called at 1784206919335
+  botProcesses size: 0
+Static shutdown hook at 1784206919339
+  botProcesses size: 0
+shutdownAll called at 1784206919341
+  botProcesses size: 0
+  REMOVED PID 8040 in finally
+shutdownAll called at 1784206920967
+  botProcesses size: 0
+Static shutdown hook at 1784206920969
+  botProcesses size: 0
+shutdownAll called at 1784206920970
+  botProcesses size: 0
+  REMOVED PID 11320 in finally
+  ADDED PID 3716 for Cool632_123
+  ADDED PID 13904 for Cool608PVP
+shutdownAll called at 1784206975021
+  botProcesses size: 0
+Static shutdown hook at 1784206975024
+  botProcesses size: 0
+shutdownAll called at 1784206975025
+  botProcesses size: 0
+  REMOVED PID 13904 in finally
+  ADDED PID 13620 for Noob425_YT
+  ADDED PID 11836 for Legend217_OP
+  ADDED PID 11960 for Mini744_XD
+shutdownAll called at 1784207052123
+  botProcesses size: 0
+Static shutdown hook at 1784207052129
+  botProcesses size: 0
+shutdownAll called at 1784207052131
+  botProcesses size: 0
+  REMOVED PID 11836 in finally
+shutdownAll called at 1784207054248
+  botProcesses size: 0
+Static shutdown hook at 1784207054262
+  botProcesses size: 0
+shutdownAll called at 1784207054264
+  botProcesses size: 0
+  REMOVED PID 11960 in finally
+  ADDED PID 4012 for Player178_123
+shutdownAll called at 1784207084041
+  botProcesses size: 0
+Static shutdown hook at 1784207084044
+  botProcesses size: 0
+shutdownAll called at 1784207084045
+  botProcesses size: 0
+  REMOVED PID 4012 in finally
+Static shutdown hook at 1784208130337
+  botProcesses size: 2
+shutdownAll called at 1784208130338
+  killed PID 3716
+  killed PID 13620
+  botProcesses size: 0
+  REMOVED PID 13620 in finally
+  REMOVED PID 3716 in finally
+  ADDED PID 12600 for xD329HD
+  ADDED PID 13356 for Ultra266_XD
+shutdownAll called at 1784208944909
+  botProcesses size: 0
+Static shutdown hook at 1784208944912
+  botProcesses size: 0
+shutdownAll called at 1784208944915
+  botProcesses size: 0
+shutdownAll called at 1784208946232
+  botProcesses size: 0
+Static shutdown hook at 1784208946234
+  botProcesses size: 0
+shutdownAll called at 1784208946234
+  botProcesses size: 0
+  ADDED PID 3520 for Ultra266_XD
+  ADDED PID 8104 for xD329HD
+shutdownAll called at 1784209949952
+  botProcesses size: 0
+Static shutdown hook at 1784209949954
+  botProcesses size: 0
+shutdownAll called at 1784209949955
+  botProcesses size: 0
+  REMOVED PID 8104 in finally
+shutdownAll called at 1784209950443
+  botProcesses size: 0
+Static shutdown hook at 1784209950445
+  botProcesses size: 0
+shutdownAll called at 1784209950446
+  botProcesses size: 0
+  REMOVED PID 3520 in finally
+  ADDED PID 13772 for Ultra266_XD
+  ADDED PID 11472 for xD329HD
+Static shutdown hook at 1784211255306
+  botProcesses size: 2
+shutdownAll called at 1784211255307
+  killed PID 13772
+  killed PID 11472
+  botProcesses size: 0
+  REMOVED PID 13772 in finally
+  REMOVED PID 11472 in finally
+  ADDED PID 10252 for Ultra266_XD
+  ADDED PID 6764 for xD329HD
+Static shutdown hook at 1784211647526
+  botProcesses size: 0
+shutdownAll called at 1784211647527
+  botProcesses size: 0
+  REMOVED PID 10252 in finally
+Static shutdown hook at 1784211652422
+  botProcesses size: 0
+shutdownAll called at 1784211652422
+  botProcesses size: 0
+  REMOVED PID 6764 in finally
+  ADDED PID 8040 for Ultra266_XD
+  ADDED PID 8304 for xD329HD
+Static shutdown hook at 1784212285591
+  botProcesses size: 2
+  killed PID 8040
+  killed PID 8304
+shutdownAll called at 1784212285593
+  botProcesses size: 0
+  REMOVED PID 8304 in finally
+  REMOVED PID 8040 in finally
+  ADDED PID 7984 for Ultra266_XD
+  ADDED PID 5136 for xD329HD
+Static shutdown hook at 1784214489090
+  botProcesses size: 2
+  killed PID 7984
+shutdownAll called at 1784214489092
+  killed PID 5136
+  botProcesses size: 0
+  REMOVED PID 7984 in finally
+  REMOVED PID 5136 in finally
+  ADDED PID 4896 for Ultra266_XD
+  ADDED PID 8788 for xD329HD
+Static shutdown hook at 1784215058187
+  botProcesses size: 0
+shutdownAll called at 1784215058191
+  botProcesses size: 0
+  REMOVED PID 4896 in finally
+Static shutdown hook at 1784215064228
+  botProcesses size: 0
+shutdownAll called at 1784215064229
+  botProcesses size: 0
+  REMOVED PID 8788 in finally
+  ADDED PID 14260 for Ultra266_XD
+  ADDED PID 8088 for xD329HD
+Static shutdown hook at 1784215083224
+  botProcesses size: 0
+shutdownAll called at 1784215083224
+  botProcesses size: 0
+  REMOVED PID 14260 in finally
+Static shutdown hook at 1784215088420
+  botProcesses size: 0
+shutdownAll called at 1784215088420
+  botProcesses size: 0
+  REMOVED PID 8088 in finally
+  ADDED PID 13516 for Ultra266_XD
+  ADDED PID 11196 for xD329HD
+  REMOVED PID 11196 in finally
+  REMOVED PID 13516 in finally
+shutdownAll called at 1784218328730
+  botProcesses size: 0
+Static shutdown hook at 1784218328732
+  botProcesses size: 0
+shutdownAll called at 1784218328732
+  botProcesses size: 0
+Static shutdown hook at 1784229180992
+  botProcesses size: 0
+shutdownAll called at 1784229180992
+  botProcesses size: 0
+shutdownAll called at 1784239744017
+  botProcesses size: 0
+Static shutdown hook at 1784239744018
+  botProcesses size: 0
+shutdownAll called at 1784239744019
+  botProcesses size: 0
+shutdownAll called at 1784240139639
+  botProcesses size: 0
+Static shutdown hook at 1784240139640
+  botProcesses size: 0
+shutdownAll called at 1784240139641
+  botProcesses size: 0
+Static shutdown hook at 1784283289738
+  botProcesses size: 0
+shutdownAll called at 1784283289740
+  botProcesses size: 0
+Static shutdown hook at 1784284006102
+shutdownAll called at 1784284006103
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784284093178
+  botProcesses size: 0
+Static shutdown hook at 1784284093179
+  botProcesses size: 0
+shutdownAll called at 1784284093180
+  botProcesses size: 0
+shutdownAll called at 1784286055695
+  botProcesses size: 0
+Static shutdown hook at 1784286055697
+  botProcesses size: 0
+shutdownAll called at 1784286055697
+  botProcesses size: 0
+shutdownAll called at 1784298218185
+  botProcesses size: 0
+Static shutdown hook at 1784298218188
+shutdownAll called at 1784298218188
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784387502528
+shutdownAll called at 1784387502529
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784388322234
+  botProcesses size: 0
+Static shutdown hook at 1784388322235
+shutdownAll called at 1784388322235
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784390694796
+shutdownAll called at 1784390694797
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784392822621
+  botProcesses size: 0
+shutdownAll called at 1784392822622
+  botProcesses size: 0
+Static shutdown hook at 1784393482837
+  botProcesses size: 0
+shutdownAll called at 1784393482838
+  botProcesses size: 0
+shutdownAll called at 1784393611495
+  botProcesses size: 0
+Static shutdown hook at 1784393611498
+  botProcesses size: 0
+shutdownAll called at 1784393611501
+  botProcesses size: 0
+Static shutdown hook at 1784461831035
+  botProcesses size: 0
+shutdownAll called at 1784461831036
+  botProcesses size: 0
+Static shutdown hook at 1784462563612
+  botProcesses size: 0
+shutdownAll called at 1784462563613
+  botProcesses size: 0
+Static shutdown hook at 1784463521480
+  botProcesses size: 0
+shutdownAll called at 1784463521481
+  botProcesses size: 0
+Static shutdown hook at 1784463983684
+shutdownAll called at 1784463983684
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784466694461
+shutdownAll called at 1784466694462
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784469729199
+  botProcesses size: 0
+shutdownAll called at 1784469729200
+  botProcesses size: 0
+shutdownAll called at 1784470318278
+  botProcesses size: 0
+Static shutdown hook at 1784470318279
+  botProcesses size: 0
+shutdownAll called at 1784470318279
+  botProcesses size: 0
+Static shutdown hook at 1784474225296
+shutdownAll called at 1784474225296
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784475251721
+  botProcesses size: 0
+Static shutdown hook at 1784475251722
+  botProcesses size: 0
+shutdownAll called at 1784475251724
+  botProcesses size: 0
+shutdownAll called at 1784476317797
+  botProcesses size: 0
+Static shutdown hook at 1784476317799
+  botProcesses size: 0
+shutdownAll called at 1784476317800
+  botProcesses size: 0
+Static shutdown hook at 1784478473564
+  botProcesses size: 0
+shutdownAll called at 1784478473565
+  botProcesses size: 0
+shutdownAll called at 1784481222406
+  botProcesses size: 0
+Static shutdown hook at 1784481222408
+shutdownAll called at 1784481222408
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784483701764
+  botProcesses size: 0
+shutdownAll called at 1784484574317
+  botProcesses size: 0
+Static shutdown hook at 1784484574319
+  botProcesses size: 0
+shutdownAll called at 1784484574319
+  botProcesses size: 0
+shutdownAll called at 1784485946449
+  botProcesses size: 0
+Static shutdown hook at 1784485946451
+  botProcesses size: 0
+shutdownAll called at 1784485946452
+  botProcesses size: 0
+shutdownAll called at 1784486269322
+  botProcesses size: 0
+Static shutdown hook at 1784486269325
+  botProcesses size: 0
+shutdownAll called at 1784486269327
+  botProcesses size: 0
+shutdownAll called at 1784487416668
+  botProcesses size: 0
+Static shutdown hook at 1784487416669
+  botProcesses size: 0
+shutdownAll called at 1784487416670
+  botProcesses size: 0
+shutdownAll called at 1784489340411
+  botProcesses size: 0
+Static shutdown hook at 1784489340413
+  botProcesses size: 0
+shutdownAll called at 1784489340414
+  botProcesses size: 0
+Static shutdown hook at 1784491766861
+shutdownAll called at 1784491766862
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784492246777
+  botProcesses size: 0
+Static shutdown hook at 1784492246779
+shutdownAll called at 1784492246779
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784492948363
+shutdownAll called at 1784492948364
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784493154369
+  botProcesses size: 0
+Static shutdown hook at 1784493154372
+  botProcesses size: 0
+shutdownAll called at 1784493154372
+  botProcesses size: 0
+shutdownAll called at 1784494255767
+  botProcesses size: 0
+Static shutdown hook at 1784494255769
+  botProcesses size: 0
+shutdownAll called at 1784494255770
+  botProcesses size: 0
+shutdownAll called at 1784495032839
+  botProcesses size: 0
+Static shutdown hook at 1784495032842
+  botProcesses size: 0
+shutdownAll called at 1784495032842
+  botProcesses size: 0
+Static shutdown hook at 1784495931562
+  botProcesses size: 0
+shutdownAll called at 1784495931562
+  botProcesses size: 0
+shutdownAll called at 1784496596547
+  botProcesses size: 0
+Static shutdown hook at 1784496596549
+  botProcesses size: 0
+shutdownAll called at 1784496596551
+  botProcesses size: 0
+Static shutdown hook at 1784498703857
+shutdownAll called at 1784498703857
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784500295273
+  botProcesses size: 0
+Static shutdown hook at 1784500295276
+  botProcesses size: 0
+shutdownAll called at 1784500295276
+  botProcesses size: 0
+shutdownAll called at 1784502964437
+  botProcesses size: 0
+Static shutdown hook at 1784502964438
+  botProcesses size: 0
+shutdownAll called at 1784502964439
+  botProcesses size: 0
+shutdownAll called at 1784503759815
+  botProcesses size: 0
+Static shutdown hook at 1784503759816
+  botProcesses size: 0
+shutdownAll called at 1784503759817
+  botProcesses size: 0
+Static shutdown hook at 1784549353768
+  botProcesses size: 0
+shutdownAll called at 1784549353802
+  botProcesses size: 0
+shutdownAll called at 1784549353905
+  botProcesses size: 0
+Static shutdown hook at 1784576993475
+  botProcesses size: 0
+shutdownAll called at 1784576993476
+  botProcesses size: 0
+shutdownAll called at 1784577331902
+  botProcesses size: 0
+Static shutdown hook at 1784577331903
+  botProcesses size: 0
+shutdownAll called at 1784577331905
+  botProcesses size: 0
+shutdownAll called at 1784577537983
+  botProcesses size: 0
+Static shutdown hook at 1784577537984
+  botProcesses size: 0
+shutdownAll called at 1784577537985
+  botProcesses size: 0
+Static shutdown hook at 1784578898138
+  botProcesses size: 0
+shutdownAll called at 1784578898140
+  botProcesses size: 0
+shutdownAll called at 1784579613451
+  botProcesses size: 0
+Static shutdown hook at 1784579613452
+shutdownAll called at 1784579613452
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784681570509
+shutdownAll called at 1784681570509
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784683490106
+  botProcesses size: 0
+shutdownAll called at 1784683490107
+Static shutdown hook at 1784683490107
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1784685192394
+shutdownAll called at 1784685192394
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784685926065
+  botProcesses size: 0
+Static shutdown hook at 1784685926066
+  botProcesses size: 0
+shutdownAll called at 1784685926066
+  botProcesses size: 0
+Static shutdown hook at 1784686826391
+shutdownAll called at 1784686826391
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1784994978873
+  botProcesses size: 0
+Static shutdown hook at 1784994978875
+  botProcesses size: 0
+shutdownAll called at 1784994978875
+  botProcesses size: 0
+shutdownAll called at 1784997407714
+  botProcesses size: 0
+Static shutdown hook at 1784997407715
+  botProcesses size: 0
+shutdownAll called at 1784997407716
+  botProcesses size: 0
+shutdownAll called at 1784999076636
+  botProcesses size: 0
+Static shutdown hook at 1784999076637
+  botProcesses size: 0
+shutdownAll called at 1784999076639
+  botProcesses size: 0
+Static shutdown hook at 1785002966615
+  botProcesses size: 0
+shutdownAll called at 1785002966616
+  botProcesses size: 0
+Static shutdown hook at 1785003023277
+  botProcesses size: 0
+shutdownAll called at 1785003023279
+  botProcesses size: 0
+shutdownAll called at 1785010970918
+  botProcesses size: 0
+Static shutdown hook at 1785010970920
+  botProcesses size: 0
+shutdownAll called at 1785010970920
+  botProcesses size: 0
+Static shutdown hook at 1785030455441
+  botProcesses size: 0
+shutdownAll called at 1785030455442
+  botProcesses size: 0
+shutdownAll called at 1785030903529
+  botProcesses size: 0
+Static shutdown hook at 1785030903531
+  botProcesses size: 0
+shutdownAll called at 1785030903531
+  botProcesses size: 0
+Static shutdown hook at 1785031492800
+  botProcesses size: 0
+shutdownAll called at 1785031492801
+  botProcesses size: 0
+shutdownAll called at 1785031542852
+  botProcesses size: 0
+Static shutdown hook at 1785031542852
+  botProcesses size: 0
+shutdownAll called at 1785031542854
+  botProcesses size: 0
+shutdownAll called at 1785031641397
+  botProcesses size: 0
+Static shutdown hook at 1785031641398
+  botProcesses size: 0
+shutdownAll called at 1785031641400
+  botProcesses size: 0
+shutdownAll called at 1785031852597
+  botProcesses size: 0
+Static shutdown hook at 1785031852598
+  botProcesses size: 0
+shutdownAll called at 1785031852599
+  botProcesses size: 0
+Static shutdown hook at 1785032117469
+  botProcesses size: 0
+shutdownAll called at 1785032117471
+  botProcesses size: 0
+Static shutdown hook at 1785032382208
+  botProcesses size: 0
+shutdownAll called at 1785032382208
+  botProcesses size: 0
+shutdownAll called at 1785032538463
+  botProcesses size: 0
+Static shutdown hook at 1785032538465
+  botProcesses size: 0
+shutdownAll called at 1785032538466
+  botProcesses size: 0
+shutdownAll called at 1785035534343
+  botProcesses size: 0
+Static shutdown hook at 1785035534344
+  botProcesses size: 0
+shutdownAll called at 1785035534344
+  botProcesses size: 0
+shutdownAll called at 1785102501393
+  botProcesses size: 0
+Static shutdown hook at 1785102501394
+  botProcesses size: 0
+shutdownAll called at 1785102501394
+  botProcesses size: 0
+shutdownAll called at 1785171840447
+Static shutdown hook at 1785171840447
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785180367769
+  botProcesses size: 0
+Static shutdown hook at 1785180367771
+  botProcesses size: 0
+shutdownAll called at 1785180367772
+  botProcesses size: 0
+shutdownAll called at 1785210161745
+  botProcesses size: 0
+Static shutdown hook at 1785210161745
+  botProcesses size: 0
+shutdownAll called at 1785210161746
+  botProcesses size: 0
+Static shutdown hook at 1785216672615
+  botProcesses size: 0
+shutdownAll called at 1785216672616
+  botProcesses size: 0
+Static shutdown hook at 1785218221372
+shutdownAll called at 1785218221372
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785276498082
+Static shutdown hook at 1785276498082
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1785278507138
+shutdownAll called at 1785278507139
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785278873093
+Static shutdown hook at 1785278873093
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1785279030127
+  botProcesses size: 0
+shutdownAll called at 1785279030129
+  botProcesses size: 0
+shutdownAll called at 1785279243177
+  botProcesses size: 0
+Static shutdown hook at 1785279243178
+shutdownAll called at 1785279243178
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785280009395
+  botProcesses size: 0
+Static shutdown hook at 1785280009400
+  botProcesses size: 0
+shutdownAll called at 1785280009401
+  botProcesses size: 0
+Static shutdown hook at 1785348478366
+shutdownAll called at 1785348478366
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785349644947
+  botProcesses size: 0
+Static shutdown hook at 1785349644948
+  botProcesses size: 0
+shutdownAll called at 1785349644949
+  botProcesses size: 0
+shutdownAll called at 1785351444988
+  botProcesses size: 0
+Static shutdown hook at 1785351444989
+  botProcesses size: 0
+shutdownAll called at 1785351444990
+  botProcesses size: 0
+shutdownAll called at 1785354153561
+  botProcesses size: 0
+Static shutdown hook at 1785354153562
+  botProcesses size: 0
+shutdownAll called at 1785354153562
+  botProcesses size: 0
+Static shutdown hook at 1785354726234
+shutdownAll called at 1785354726234
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1785354811577
+shutdownAll called at 1785354811577
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785355359066
+  botProcesses size: 0
+Static shutdown hook at 1785355359068
+  botProcesses size: 0
+shutdownAll called at 1785355359068
+  botProcesses size: 0
+shutdownAll called at 1785355722982
+  botProcesses size: 0
+Static shutdown hook at 1785355722984
+  botProcesses size: 0
+shutdownAll called at 1785355722988
+  botProcesses size: 0
+shutdownAll called at 1785356813864
+  botProcesses size: 0
+Static shutdown hook at 1785356813864
+  botProcesses size: 0
+shutdownAll called at 1785356813866
+  botProcesses size: 0
+shutdownAll called at 1785357206467
+  botProcesses size: 0
+Static shutdown hook at 1785357206468
+  botProcesses size: 0
+shutdownAll called at 1785357206470
+  botProcesses size: 0
+Static shutdown hook at 1785357540754
+  botProcesses size: 0
+shutdownAll called at 1785357540754
+  botProcesses size: 0
+shutdownAll called at 1785357923110
+  botProcesses size: 0
+Static shutdown hook at 1785357923111
+  botProcesses size: 0
+shutdownAll called at 1785357923111
+  botProcesses size: 0
+shutdownAll called at 1785388372614
+  botProcesses size: 0
+Static shutdown hook at 1785388372616
+  botProcesses size: 0
+shutdownAll called at 1785388372616
+  botProcesses size: 0
+shutdownAll called at 1785390510577
+  botProcesses size: 0
+Static shutdown hook at 1785390510578
+  botProcesses size: 0
+shutdownAll called at 1785390510578
+  botProcesses size: 0
+shutdownAll called at 1785450252901
+  botProcesses size: 0
+Static shutdown hook at 1785450252902
+  botProcesses size: 0
+shutdownAll called at 1785450252902
+  botProcesses size: 0
+shutdownAll called at 1785452746869
+  botProcesses size: 0
+Static shutdown hook at 1785452746870
+  botProcesses size: 0
+shutdownAll called at 1785452746871
+  botProcesses size: 0
+shutdownAll called at 1785453422861
+  botProcesses size: 0
+Static shutdown hook at 1785453422863
+  botProcesses size: 0
+shutdownAll called at 1785453422864
+  botProcesses size: 0
+shutdownAll called at 1785454085469
+  botProcesses size: 0
+Static shutdown hook at 1785454085470
+  botProcesses size: 0
+shutdownAll called at 1785454085471
+  botProcesses size: 0
+Static shutdown hook at 1785475028141
+  botProcesses size: 0
+shutdownAll called at 1785475028141
+  botProcesses size: 0
+Static shutdown hook at 1785475644562
+  botProcesses size: 0
+shutdownAll called at 1785475644562
+  botProcesses size: 0
+Static shutdown hook at 1785476312630
+shutdownAll called at 1785476312631
+  botProcesses size: 0
+  botProcesses size: 0
+Static shutdown hook at 1785477038050
+shutdownAll called at 1785477038051
+  botProcesses size: 0
+  botProcesses size: 0
+shutdownAll called at 1785477594942
+  botProcesses size: 0
+Static shutdown hook at 1785477594945
+  botProcesses size: 0
+shutdownAll called at 1785477594946
+  botProcesses size: 0

@@ -1,0 +1,74 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 02.07.2026, 05:33
+Description: Initializing game
+
+java.lang.OutOfMemoryError: Java heap space
+	at java.desktop/java.awt.image.DataBufferInt.<init>(DataBufferInt.java:75)
+	at java.desktop/java.awt.image.Raster.createPackedRaster(Raster.java:539)
+	at java.desktop/java.awt.image.DirectColorModel.createCompatibleWritableRaster(DirectColorModel.java:1032)
+	at java.desktop/java.awt.image.BufferedImage.<init>(BufferedImage.java:333)
+	at xd.harm.utils.text.font.styled.GlyphPage.<init>(GlyphPage.java:43)
+	at xd.harm.utils.text.font.styled.StyledFont.<init>(StyledFont.java:30)
+	at xd.harm.utils.text.font.ClientFonts.init(ClientFonts.java:71)
+	at xd.harm.Harmony.clientLoad(Harmony.java:135)
+	at xd.harm.Harmony.<init>(Harmony.java:116)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:447)
+	at net.minecraft.client.main.Main.main(Main.java:156)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at java.desktop/java.awt.image.DataBufferInt.<init>(DataBufferInt.java:75)
+	at java.desktop/java.awt.image.Raster.createPackedRaster(Raster.java:539)
+	at java.desktop/java.awt.image.DirectColorModel.createCompatibleWritableRaster(DirectColorModel.java:1032)
+	at java.desktop/java.awt.image.BufferedImage.<init>(BufferedImage.java:333)
+	at xd.harm.utils.text.font.styled.GlyphPage.<init>(GlyphPage.java:43)
+	at xd.harm.utils.text.font.styled.StyledFont.<init>(StyledFont.java:30)
+	at xd.harm.utils.text.font.ClientFonts.init(ClientFonts.java:71)
+	at xd.harm.Harmony.clientLoad(Harmony.java:135)
+	at xd.harm.Harmony.<init>(Harmony.java:116)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:447)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.main.Main.main(Main.java:156)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 12479520 bytes (11 MB) / 536870912 bytes (512 MB) up to 536870912 bytes (512 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx512M -Xms256M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

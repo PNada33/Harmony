@@ -1,0 +1,70 @@
+---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 02.07.2026, 05:35
+Description: Rendering overlay
+
+java.lang.NullPointerException: Cannot invoke "xd.harm.utils.text.font.styled.StyledFont.getFontHeight()" because "this.fontTitle" is null
+	at net.minecraft.client.gui.ResourceLoadProgressGui.drawDonutProgress(ResourceLoadProgressGui.java:371)
+	at net.minecraft.client.gui.ResourceLoadProgressGui.drawContent(ResourceLoadProgressGui.java:333)
+	at net.minecraft.client.gui.ResourceLoadProgressGui.render(ResourceLoadProgressGui.java:285)
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:789)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:996)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraft.client.gui.ResourceLoadProgressGui.drawDonutProgress(ResourceLoadProgressGui.java:371)
+	at net.minecraft.client.gui.ResourceLoadProgressGui.drawContent(ResourceLoadProgressGui.java:333)
+	at net.minecraft.client.gui.ResourceLoadProgressGui.render(ResourceLoadProgressGui.java:285)
+
+-- Overlay render details --
+Details:
+	Overlay name: net.minecraft.client.gui.ResourceLoadProgressGui
+Stacktrace:
+	at net.minecraft.client.renderer.GameRenderer.updateCameraAndRender(GameRenderer.java:789)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:996)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:584)
+	at net.minecraft.client.main.Main.main(Main.java:198)
+	at Start.main(Start.java:29)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 17.0.19, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Microsoft
+	Memory: 282472192 bytes (269 MB) / 536870912 bytes (512 MB) up to 1073741824 bytes (1024 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx1G -Xms512M
+	Launched Version: mcp
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 595.97, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Very likely; Jar signature invalidated
+	Type: Client (map_client.txt)
+	Graphics mode: fast
+	Resource Packs: vanilla, file/ImDJForShorts-Perfect-PVP-Pack-1.16.5.zip
+	Current Language: English (US)
+	CPU: 12x AMD Ryzen 5 5600 6-Core Processor 
+	OptiFine Version: OptiFine_1.16.5_HD_U_G8
+	OptiFine Build: ~~NULL~~
+	Render Distance Chunks: 20
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 595.97
+	OpenGlRenderer: NVIDIA GeForce RTX 2060 SUPER/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12

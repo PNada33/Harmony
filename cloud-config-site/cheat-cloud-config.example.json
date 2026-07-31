@@ -1,0 +1,7 @@
+{
+  "projectUrl": "http://109.61.108.54:13471",
+  "websocketUrl": "ws://109.61.108.54:13471/ws/cloud",
+  "anonKey": "YOUR_STRONG_API_KEY",
+  "table": "configs",
+  "timeoutMs": 4000
+}
