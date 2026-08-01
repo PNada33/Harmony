@@ -3245,3 +3245,9 @@ Static shutdown hook at 1785477594945
   botProcesses size: 0
 shutdownAll called at 1785477594946
   botProcesses size: 0
+shutdownAll called at 1785547469371
+  botProcesses size: 0
+Static shutdown hook at 1785547469373
+  botProcesses size: 0
+shutdownAll called at 1785547469374
+  botProcesses size: 0
