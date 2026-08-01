@@ -3,16 +3,16 @@ out/
 *.class
 
 # === RUNTIME DATA ===
-logs/
-botdata_*/
-harmony/
-figura/
-figura_avatars/
-temp_avatars/
-saves/
-screenshots/
-resourcepacks/
-server-resource-packs/
+/logs/
+/botdata_*/
+/harmony/
+/figura/
+/figura_avatars/
+/temp_avatars/
+/saves/
+/screenshots/
+/resourcepacks/
+/server-resource-packs/
 
 # === DEPENDENCIES (JARs) ===
 lib/
